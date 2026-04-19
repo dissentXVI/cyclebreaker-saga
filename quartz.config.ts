@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "dissentxvi.github.io/cyclebreaker-saga",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "_Meta", "Maps"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
