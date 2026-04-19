@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "dissentxvi.github.io/cyclebreaker-saga",
+    baseUrl: "thecyclebreakersaga.com",
     ignorePatterns: ["private", "templates", ".obsidian", "_Meta", "Maps"],
     defaultDateType: "modified",
     theme: {
