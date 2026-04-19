@@ -1,13 +1,14 @@
 ---
 aliases:
-  - Renjiro
-  - Cultural Attaché Uritami
-tags:
-  - gholmeshi
-  - vociterra
-  - npc
-  - gm-only
+- Renjiro
+- Cultural Attaché Uritami
+draft: true
 image: Renjiro_Uritami.webp
+tags:
+- gholmeshi
+- vociterra
+- npc
+- gm-only
 ---
 
 ![[Renjiro_Uritami.webp]]

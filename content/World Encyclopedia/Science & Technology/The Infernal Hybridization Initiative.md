@@ -1,12 +1,14 @@
 ---
 aliases:
-  - Infernal Hybridization Initiative
-  - the Infernal Hybridization Initiative
+- Infernal Hybridization Initiative
+- the Infernal Hybridization Initiative
+draft: true
 tags:
-  - historical-event
-  - navarresean-see
-  - gm-only
+- historical-event
+- navarresean-see
+- gm-only
 ---
+
 The Infernal Hybridization Initiative was a research program commissioned by Emperor [[Isandor Vael'Dorath]] during the [[The Second Celestial Campaign|Second Celestial Campaign]] and carried out by Dr. [[Alaric Vyrne]] of the [[Navarresean See]]'s research apparatus. Its stated purpose was the creation of a resilient and subservient workforce to sustain the empire's expanding military operations — specifically to replace the dwindling supply of lowborn labor in the mines and on campaign. Its actual purpose was the manufacture of a people.
 
 The Initiative combined infernal and elven traits through biomantic processes that Vyrne developed over the course of his career. The result was the tiefling — a new race with sufficient resilience and capability to serve the empire's needs, and sufficient vulnerability to coercion to remain, in the empire's view, controllable. The first generation of tieflings were designated the Damned, a title that captured their precise position within Navarresean society: essential and disposable, present everywhere and acknowledged nowhere.

@@ -1,11 +1,12 @@
 ---
 aliases:
-  - Alvaderax
-tags:
-  - dragon
-  - npc
-  - gm-only
+- Alvaderax
+draft: true
 image: Alvalderax.webp
+tags:
+- dragon
+- npc
+- gm-only
 ---
 
 ![[Alvalderax.webp]]

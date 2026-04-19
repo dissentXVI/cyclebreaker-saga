@@ -1,14 +1,15 @@
 ---
 aliases:
-  - The Radiant Beast
-  - Krisnarax
-tags:
-  - dragon
-  - deceased
-  - npc
-  - paragon
-  - gm-only
+- The Radiant Beast
+- Krisnarax
+draft: true
 image: Krisnarax.webp
+tags:
+- dragon
+- deceased
+- npc
+- paragon
+- gm-only
 ---
 
 ![[Krisnarax.webp]]

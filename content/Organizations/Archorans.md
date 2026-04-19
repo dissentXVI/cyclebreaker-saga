@@ -1,10 +1,11 @@
 ---
 aliases:
-  - Archoran
+- Archoran
+draft: true
 tags:
-  - organization
-  - gm-only
-  - incomplete
+- organization
+- gm-only
+- incomplete
 ---
 
 >"Quote that defines their purpose or ethos."

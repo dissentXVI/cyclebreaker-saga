@@ -1,12 +1,13 @@
 ---
 aliases:
-  - Sofi
-tags:
-  - major-ally
-  - npc
-  - incomplete
-  - gm-only
+- Sofi
+draft: true
 image: Sofi-Tillband.webp
+tags:
+- major-ally
+- npc
+- incomplete
+- gm-only
 ---
 
 ![[Sofi-Tillband.webp]]

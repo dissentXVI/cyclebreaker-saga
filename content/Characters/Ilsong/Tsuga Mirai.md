@@ -1,11 +1,12 @@
 ---
 aliases:
-  - Tsuga
-tags:
-  - ilsong
-  - npc
-  - gm-only
+- Tsuga
+draft: true
 image: Tsuga-Mirai_v2.webp
+tags:
+- ilsong
+- npc
+- gm-only
 ---
 
 ![[Tsuga-Mirai_v2.webp]]

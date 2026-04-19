@@ -1,13 +1,14 @@
 ---
 aliases:
-  - Shanyu Kioshi
-  - Shanyu Yurei
-tags:
-  - ilsong
-  - npc
-  - historical-figure
-  - gm-only
+- Shanyu Kioshi
+- Shanyu Yurei
+draft: true
 image: Yurei_Kioshi.webp
+tags:
+- ilsong
+- npc
+- historical-figure
+- gm-only
 ---
 
 ![[Yurei_Kioshi.webp]]

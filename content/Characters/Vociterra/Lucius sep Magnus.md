@@ -1,12 +1,13 @@
 ---
 aliases:
-  - Emperor Magnus
-  - Lucius
-tags:
-  - vociterra
-  - npc
-  - gm-only
+- Emperor Magnus
+- Lucius
+draft: true
 image: Lucius-sep-Magnus_v4.webp
+tags:
+- vociterra
+- npc
+- gm-only
 ---
 
 ![[Lucius-sep-Magnus_v4.webp]]

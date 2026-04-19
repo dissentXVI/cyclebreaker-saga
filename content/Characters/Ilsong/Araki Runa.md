@@ -1,12 +1,13 @@
 ---
 aliases:
-  - The Black Whisper
-  - Runa
-tags:
-  - ilsong
-  - npc
-  - gm-only
+- The Black Whisper
+- Runa
+draft: true
 image: Araki-Runa_v2.webp
+tags:
+- ilsong
+- npc
+- gm-only
 ---
 
 ![[Araki-Runa_v2.webp]]

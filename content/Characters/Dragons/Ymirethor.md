@@ -1,12 +1,13 @@
 ---
 aliases:
-  - The Progenitor
-  - Ymirethor
-tags:
-  - dragon
-  - npc
-  - gm-only
+- The Progenitor
+- Ymirethor
+draft: true
 image: Ymirethor.webp
+tags:
+- dragon
+- npc
+- gm-only
 ---
 
 ![[Ymirethor.webp]]

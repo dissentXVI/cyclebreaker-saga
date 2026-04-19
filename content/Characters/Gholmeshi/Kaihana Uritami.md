@@ -1,13 +1,14 @@
 ---
 aliases:
-  - Viceroy Uritami
-  - Kaihana
-tags:
-  - gholmeshi
-  - vociterra
-  - npc
-  - gm-only
+- Viceroy Uritami
+- Kaihana
+draft: true
 image: Kaihana-Uritami_v3.webp
+tags:
+- gholmeshi
+- vociterra
+- npc
+- gm-only
 ---
 
 ![[Kaihana-Uritami_v3.webp]]

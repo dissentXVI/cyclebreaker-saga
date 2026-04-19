@@ -1,13 +1,14 @@
 ---
 aliases:
-  - The King of Terrors
-  - Wodr
-  - Wodirethrax
-tags:
-  - dragon
-  - npc
-  - gm-only
+- The King of Terrors
+- Wodr
+- Wodirethrax
+draft: true
 image: Wodirethrax.webp
+tags:
+- dragon
+- npc
+- gm-only
 ---
 
 ![[Wodirethrax.webp]]

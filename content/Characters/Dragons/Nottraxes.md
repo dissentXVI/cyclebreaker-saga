@@ -1,11 +1,12 @@
 ---
 aliases:
-  - Nottraxes
-tags:
-  - dragon
-  - npc
-  - gm-only
+- Nottraxes
+draft: true
 image: Nottraxes.webp
+tags:
+- dragon
+- npc
+- gm-only
 ---
 
 ![[Nottraxes.webp]]

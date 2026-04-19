@@ -1,13 +1,14 @@
 ---
 aliases:
-  - Vyrne
-  - Dr. Vyrne
+- Vyrne
+- Dr. Vyrne
+draft: true
+image: null
 tags:
-  - minor-character
-  - navarresean-see
-  - historical
-  - gm-only
-image:
+- minor-character
+- navarresean-see
+- historical
+- gm-only
 ---
 
 **Race**: True Elf (Navarresean)

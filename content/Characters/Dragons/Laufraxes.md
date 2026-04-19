@@ -1,12 +1,13 @@
 ---
 aliases:
-  - The Voice of the Spire
-  - Laufraxes
-tags:
-  - dragon
-  - npc
-  - gm-only
+- The Voice of the Spire
+- Laufraxes
+draft: true
 image: Laufraxes.webp
+tags:
+- dragon
+- npc
+- gm-only
 ---
 
 ![[Laufraxes.webp]]

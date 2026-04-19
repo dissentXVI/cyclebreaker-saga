@@ -1,13 +1,14 @@
 ---
 aliases:
-  - Shinsei the Gray
-  - Shinsei
-  - Amano
-tags:
-  - ilsong
-  - npc
-  - gm-only
+- Shinsei the Gray
+- Shinsei
+- Amano
+draft: true
 image: Amano-Kioshi_v2.webp
+tags:
+- ilsong
+- npc
+- gm-only
 ---
 
 ![[Amano-Kioshi_v2.webp]]

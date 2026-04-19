@@ -1,12 +1,13 @@
 ---
 aliases:
-  - Meonus
-tags:
-  - vociterra
-  - deceased
-  - npc
-  - gm-only
+- Meonus
+draft: true
 image: Meonus_Magnus_v2.webp
+tags:
+- vociterra
+- deceased
+- npc
+- gm-only
 ---
 
 ![[Meonus_Magnus_v2.webp]]

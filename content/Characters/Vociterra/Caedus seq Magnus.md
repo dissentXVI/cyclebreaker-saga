@@ -1,12 +1,13 @@
 ---
 aliases:
-  - Imperium Caedus
-  - Caedus
-tags:
-  - vociterra
-  - npc
-  - gm-only
+- Imperium Caedus
+- Caedus
+draft: true
 image: Caedus-seq-Magnus_v2.webp
+tags:
+- vociterra
+- npc
+- gm-only
 ---
 
 ![[Caedus-seq-Magnus_v2.webp]]

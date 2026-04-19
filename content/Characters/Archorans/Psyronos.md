@@ -1,15 +1,16 @@
 ---
 aliases:
-  - Architect of the Divine Purpose
-  - Psyronos
-  - Meonus Magnus
-  - Meonus sep Magnus
-tags:
-  - archoran
-  - predecessor
-  - npc
-  - gm-only
+- Architect of the Divine Purpose
+- Psyronos
+- Meonus Magnus
+- Meonus sep Magnus
+draft: true
 image: Psyronos_v2_square.webp
+tags:
+- archoran
+- predecessor
+- npc
+- gm-only
 ---
 
 ![[Psyronos_v2_square.webp]]

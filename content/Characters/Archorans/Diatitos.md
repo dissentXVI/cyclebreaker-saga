@@ -1,13 +1,14 @@
 ---
 aliases:
-  - The Emissary
-  - Diatitos
-tags:
-  - archoran
-  - predecessor
-  - npc
-  - gm-only
+- The Emissary
+- Diatitos
+draft: true
 image: Diatitos_v2_square.webp
+tags:
+- archoran
+- predecessor
+- npc
+- gm-only
 ---
 
 ![[Diatitos_v2_square.webp]]

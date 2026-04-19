@@ -1,11 +1,13 @@
 ---
 aliases:
-  - Eisfeld
+- Eisfeld
+draft: true
 tags:
-  - region
-  - to-review
-  - gm-only
+- region
+- to-review
+- gm-only
 ---
+
 ###### Type and Location
 Island — frigid landmass north of [[Halinor]], separated from the mainland by the [[Colberg Sea]]
 

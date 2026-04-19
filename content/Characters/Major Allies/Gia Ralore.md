@@ -1,13 +1,14 @@
 ---
 aliases:
-  - Jeah al-Ralori
-  - Gia
-tags:
-  - major-ally
-  - dyadya
-  - npc
-  - gm-only
+- Jeah al-Ralori
+- Gia
+draft: true
 image: Gia-Ralore.webp
+tags:
+- major-ally
+- dyadya
+- npc
+- gm-only
 ---
 
 ![[Gia-Ralore.webp]]

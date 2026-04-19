@@ -1,13 +1,14 @@
 ---
 aliases:
-  - The Betrayed
-  - Skadraxes
-tags:
-  - dragon
-  - deceased
-  - npc
-  - gm-only
+- The Betrayed
+- Skadraxes
+draft: true
 image: Skadraxes.webp
+tags:
+- dragon
+- deceased
+- npc
+- gm-only
 ---
 
 ![[Skadraxes.webp]]

@@ -1,11 +1,12 @@
 ---
 aliases:
-  - Durnirax
-tags:
-  - dragon
-  - npc
-  - gm-only
+- Durnirax
+draft: true
 image: Durnirax.webp
+tags:
+- dragon
+- npc
+- gm-only
 ---
 
 ![[Durnirax.webp]]
