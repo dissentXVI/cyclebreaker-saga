@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.hasTag("npc")
+formulas:
+  Untitled: ""
+  Image: image(file.embeds[0])
+views:
+  - type: cards
+    name: Main
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: tags
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 1.2
+    imageFit: ""

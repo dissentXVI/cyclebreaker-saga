@@ -1,0 +1,12 @@
+---
+aliases:
+  - The Sixth Cataclysm
+tags:
+  - cataclysm
+---
+## Origin
+The Howling Winds of Y'Set began in 3038 ApN when a fringe cult of fanatics rediscovered the ancient rites of [[Y'Set, the Galloping Squall|Y'Set]], a minor wind god once worshipped by the now-extinct sand minotaurs of the deep deserts of [[Tarwa'kem]]. With no formal knowledge of [[Paragons]] prior to this event, few recognized the significance of what was being summoned until it was too late. The forbidden rites were performed in a remote canyon stronghold, and [[Y'Set, the Galloping Squall|Y'Set]] was brought into full manifestation — a towering camel-headed monstrosity with serpentine tongues and feathered wings, dragging unnatural winds and roaring storms in its wake. This event marked the first known [[Paragons|Paragon]]
+## Overview
+The appearance of [[Y'Set, the Galloping Squall|Y'Set]] loosed hurricane-force sandstorms across [[Tarwa'kem]], disrupting trade, agriculture, and city life. The storms had no natural pattern — they pulsed outward from the Paragon itself, forming a living vortex of dust and death that swallowed whole villages as its cultists drove it ever forward. The weather across [[Aspiria]] shifted, its pneuma thrown into disarray by the unnatural winds, and the destruction threatened to carry [[Y'Set, the Galloping Squall|Y'Set]] toward the heartlands of [[Halinor]]. An elite band of seven set out from [[Tarwa'kem]] to stop it. They succeeded, but at great cost — only two of the original seven survived the battle. Before they could return home, they were ambushed and slain by remnants of the cult, leaving no champions to claim the tale. The cult, never fully destroyed, splintered into shadows and scattered across [[Aspiria]].
+## Legacy
+The Howling Winds of Y'Set stands as the first recorded [[Paragons|Paragon]] manifestation in Aspirian history, establishing a grim precedent that prayer and belief, twisted by desperation or fanaticism, could birth something capable of threatening the entire world. The victorious seven left behind no survivors to tell their story, their names lost to history alongside the cult that killed them. That cult endures in fractured form to this day — their rituals secret, their movements difficult to trace. Some believe [[Y'Set, the Galloping Squall|Y'Set]]'s death was incomplete, its pneuma lingering still in the shifting desert storms, awaiting another breath to call it back.
