@@ -1,10 +1,11 @@
 ---
 aliases:
-  - The Colletores
+- The Colletores
+draft: true
 tags:
-  - organization
-  - shurevaire
-  - incomplete
+- organization
+- shurevaire
+- incomplete
 ---
 
 >"Quote that defines their purpose or ethos."

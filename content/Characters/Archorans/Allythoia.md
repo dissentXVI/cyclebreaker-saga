@@ -1,11 +1,12 @@
 ---
-aliases:
-tags:
-  - minor-character
-  - npc
-  - archoran
-  - incomplete
+aliases: null
+draft: true
 image: Allythoia_v3.webp
+tags:
+- minor-character
+- npc
+- archoran
+- incomplete
 ---
 
 ![[Allythoia_v3.webp]]
@@ -84,6 +85,3 @@ image: Allythoia_v3.webp
 
 
 ## Secrets
-
-
-

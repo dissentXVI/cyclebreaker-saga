@@ -1,14 +1,15 @@
 ---
 aliases:
-  - Cassius
-  - Amata
-  - Cassius Amata
+- Cassius
+- Amata
+- Cassius Amata
+draft: true
+image: null
 tags:
-  - minor-character
-  - historical-figure
-  - deceased
-  - incomplete
-image:
+- minor-character
+- historical-figure
+- deceased
+- incomplete
 ---
 
 ![[Adrien-Frost.webp]]
@@ -36,6 +37,3 @@ image:
 
 
 ## Narrative Relevance
-
-
-

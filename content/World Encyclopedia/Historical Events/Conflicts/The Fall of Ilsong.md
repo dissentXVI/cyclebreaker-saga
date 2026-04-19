@@ -1,8 +1,9 @@
 ---
-aliases:
+aliases: null
+draft: true
 tags:
-  - conflict
-  - historical-event
-  - eldamar
-  - incomplete
+- conflict
+- historical-event
+- eldamar
+- incomplete
 ---

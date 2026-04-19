@@ -1,8 +1,9 @@
 ---
 aliases:
-  - Battle of Sticaea Lake
+- Battle of Sticaea Lake
+draft: true
 tags:
-  - conflict
-  - historical-event
-  - incomplete
+- conflict
+- historical-event
+- incomplete
 ---

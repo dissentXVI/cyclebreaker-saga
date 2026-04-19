@@ -1,11 +1,12 @@
 ---
-aliases:
+aliases: null
+draft: true
+image: null
 tags:
-  - minor-character
-  - npc
-  - archoran
-  - incomplete
-image:
+- minor-character
+- npc
+- archoran
+- incomplete
 ---
 
 ![[Adrien-Frost.webp]]
@@ -33,6 +34,3 @@ image:
 
 
 ## Narrative Relevance
-
-
-

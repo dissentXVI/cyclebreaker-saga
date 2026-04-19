@@ -1,12 +1,12 @@
 ---
 aliases:
-  - Branded Shore
+- Branded Shore
+draft: true
 tags:
-  - region
-  - eldamar
-  - incomplete
+- region
+- eldamar
+- incomplete
 ---
-
 
 ###### Type and Location
 
@@ -16,4 +16,3 @@ tags:
 ## Climate & Ecology
 
 ## Related Pages
-

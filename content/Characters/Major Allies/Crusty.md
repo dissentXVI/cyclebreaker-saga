@@ -1,11 +1,12 @@
 ---
 aliases:
-  - Crusty
-tags:
-  - major-ally
-  - npc
-  - incomplete
+- Crusty
+draft: true
 image: Crusty_FenniStaf.webp
+tags:
+- major-ally
+- npc
+- incomplete
 ---
 
 ![[Crusty_FenniStaf.webp]]
