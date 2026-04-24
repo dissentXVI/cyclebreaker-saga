@@ -72,7 +72,7 @@ He excels at leading small-to-medium scale operations and training younger offic
 
 [[Bernard Snowtree]] – His half-brother - Matthias respects Bernard’s service record and character but keeps their interactions formal.
 
-[[Claudia Metellus]] – A superior officer he holds in cautious esteem. Matthias respects her battlefield skill and strict order, though he finds her hard to read. She reminds him of the side of war he tries not to become.
+[[Knight-Commander Claudia]] – A superior officer he holds in cautious esteem. Matthias respects her battlefield skill and strict order, though he finds her hard to read. She reminds him of the side of war he tries not to become.
 
 Secrets
 

@@ -13,15 +13,15 @@ image: Kyrichos_v2.webp
 
 > "You cling to a broken wheel and call it history. I am only showing you how it turns."
 
-**Title**: The Voice of the Ekklesia
+**Title**: Unknown
 
 **Allegiance**: [[The Archorans]]
 
-**Race**: [[Predecessors|Predecessor]]
+**Race**: Unknown
 
 **Gender**: Male
 
-**Age**: Timeless
+**Age**: Unknown
 
 **Eyes**: Unknown
 
@@ -38,13 +38,9 @@ Kyrichos is a figure of cold grandeur. His white and bronze attire blends priest
 He appears in places he should not be — dreams, reflections, or just behind the last closed door. His presence is never sudden, yet always too late to stop.
 
 ## Personality
+Kyrichos is eloquent, surgical, and contemptuously patient. He does not raise his voice. He does not explain more than once. He speaks as one who has already accounted for every objection and found them wanting.
 
-Kyrichos is eloquent, surgical, and contemptuously patient. He does not raise his voice. He does not explain more than once. To him, the fall of the world is not tragedy — it is correction.
-
-Of all the Archorans, he is the most active in the mortal world. Where [[Diatitos]] preserves and [[Psyronos]] mourns, Kyrichos acts. He infiltrates, instructs, manipulates. He is the one who taught beast tribes to summon Paragons. He is the one who whispers to broken leaders and desperate summoners.
-
-He genuinely believes he is saving the world — by ending it.
-
+He is active in the mortal world, moving with clear purpose. Whether he works alone or as part of something larger is not yet clear — but something far older and stranger may lie beneath it.
 ## Character History
 
 Unknown
@@ -59,10 +55,9 @@ Unknown
 
 ## Notable Relationships
 
-**[[Diatitos]]** – Respectful disdain. Sees him as noble but inert — a fossil of old ideals.
-
-**[[Psyronos]]** – Sympathetic but pitied. Kyrichos believes sorrow is a cage, and that Psyronos would do better to act.
-
-**Aspiria's Chosen** – Intriguing. Kyrichos considers them variables worth testing. He suspects one may carry the spark of true recall.
+**[[Aspiria's Chosen]]** – He has taken notice of them.
 
 ## Secrets
+
+> [!dm] DM Only — Not Revealed to Players
+> Of all the Archorans, Kyrichos is the most operationally dangerous. Where [[Diatitos]] preserves and [[Psyronos]] mourns, Kyrichos acts — infiltrating, instructing, and manipulating. He is the one who has been teaching beast tribes the conditions necessary for Paragon summoning, and whispering to broken leaders and desperate summoners across Halinor. He genuinely believes he is saving the world — by ending it, and forcing a restoration. He sees [[Diatitos]] as noble but inert, and [[Psyronos]] as a man whose grief has become a cage. He considers Aspiria's Chosen fascinating variables — and suspects that one of them may carry the spark of true recall, a fragment of a Predecessor soul reborn into the sundered world.

@@ -87,4 +87,4 @@ Ignia does not duel. She dominates.
 ## Secrets
 
 > [!dm] DM Only — Not Revealed to Players
-> Ignia's elder sister is [[Claudia Metellus]] — now Knight-Commander of the Knights Templar in [[Carinthia]]. The two have not spoken in years. Claudia defected from Vociterra under unknown circumstances, an act Ignia considers both betrayal and abandonment. The connection is buried. No one in the First Legion knows. And if [[Gallus gen Quietus|Gallus]] does, he has never said a word.
+> Ignia's elder sister is [[Knight-Commander Claudia]] — now Knight-Commander of the Knights Templar in [[Carinthia]]. The two have not spoken in years. Claudia defected from Vociterra under unknown circumstances, an act Ignia considers both betrayal and abandonment. The connection is buried. No one in the First Legion knows. And if [[Gallus gen Quietus|Gallus]] does, he has never said a word.

@@ -16,7 +16,7 @@ image: Adrien-Frost.webp
 
 **Title**: Lord Commander of the [[Knights Templar]] (Secular Arm of Carinthia)
 
-**Allegiance**: [[Carinthia]]
+**Allegiance**: [[Heldenheim|Carinthia]]
 
 **Race**: Elf
 
@@ -50,11 +50,11 @@ His mother was a handmaiden at the Cathedral of [[Saint Carine]] — quietly sen
 
 As a young officer, Adrien earned his first real recognition at the Siege of [[Lichtendorn]], where he and fewer than a hundred Templars held the high pass against wyverns for seven days. His tactics — brutal in execution but humane in purpose — earned him battlefield renown and noble patronage.
 
-When the previous Lord Commander fell in a failed northern crusade, Adrien was chosen by the Council of the [[High Houses]]. Though his lineage was modest by Carinthian standards, his record and character made the choice clear. His appointment marked a shift in the Templars — from dogmatic enforcers to disciplined guardians of the people.
+When the previous Lord Commander fell in a failed northern crusade, Adrien was chosen by the Council of the [[High Houses of Carinthia|High Houses]]. Though his lineage was modest by Carinthian standards, his record and character made the choice clear. His appointment marked a shift in the Templars — from dogmatic enforcers to disciplined guardians of the people.
 
 ## Current Status
 
-Adrien currently commands in the [[Wyrmsfall War]], Carinthia’s desperate struggle against Wodr’s Brood — a horde of vengeful dragons led by the ancient wyrm [[Wodr]]. As Lord Commander, Adrien oversees all military actions north of Heldenheim. From forward bastions along [[Kiergan Ridge]] to remote signal towers in the Maiden’s Covert, his orders shape the defense of the realm.
+Adrien currently commands in the [[Wyrmsfall War]], Carinthia’s desperate struggle against Wodr’s Brood — a horde of vengeful dragons led by the ancient wyrm [[Wodirethrax|Wodr]]. As Lord Commander, Adrien oversees all military actions north of Heldenheim. From forward bastions along [[Kiergan Ridge]] to remote signal towers in the Maiden’s Covert, his orders shape the defense of the realm.
 
 The [[Sebastien Cellier|Lightwarden]], Carinthia’s sacred dragon-slayer, is not merely a soldier, but a living weapon — bound by ancient rites to the will of the Lord Commander. Chosen by divine omen and clad in arcane relics, the [[Sebastien Cellier|Lightwarden]] is said to channel the very essence of dragonkind in order to destroy it.
 
@@ -69,6 +69,8 @@ He favors positional advantage and defensive resilience, drawing out foes and th
 ## Notable Relationships
 
 [[Bernard Snowtree]] – Adrien holds Bernard in high esteem, recognizing his strength, loyalty, and moral clarity in the defense of Snowfinch Rest. Though technically a bastard, Bernard has Adrien’s full trust and political backing.
+
+[[Knight-Commander Claudia|Knight-Commander Claudia]] - Adrien's right hand and most trusted confidant. Adrien is rarely seen without her by his side.
 
 [[Aedelweg von Achaard|Archbishop Aedelweg von Achaard]] – Their alliance is cold and formal. Adrien respects the Archbishop’s role, but resents his manipulation of the Church.
 

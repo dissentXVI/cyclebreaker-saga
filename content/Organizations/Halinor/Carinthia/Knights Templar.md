@@ -43,7 +43,7 @@ The Knights Templar represent Carinthia's secular and martial pragmatism — the
 
 ## Related Pages
 
-- **Members:** [[Adrien Frost]], [[Claudia Metellus|Knight-Commander Claudia]]
+- **Members:** [[Adrien Frost]], [[Knight-Commander Claudia|Knight-Commander Claudia]]
 - **Events:** [[Wyrmsfall War]]
 - **Locations:** [[Skyward Keep]], [[Heldenheim]], [[Snowfinch Rest]]
 - **Organizations:** [[The Light of Alophia]], [[The Dawnbound]], [[High Houses of Carinthia]], [[House Vaillant]]
