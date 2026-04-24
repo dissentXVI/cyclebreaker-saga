@@ -46,6 +46,8 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph({
       excludeTags: ["npc", "gm-only", "incomplete", "session-notes"],
+      renderFileNode: true,
+      renderTagNode: false,
     }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
