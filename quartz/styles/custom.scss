@@ -73,3 +73,9 @@ li.section-li > .section > .tags,
 li.section-li > .section .meta {
   display: none !important;
 }
+
+/* ── Center the tagline on the homepage ──────────────────────────── */
+[data-slug="index"] .home-tagline {
+  text-align: center;
+  max-width: 100%;
+}
