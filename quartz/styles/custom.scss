@@ -68,10 +68,10 @@
   display: none;
 }
 
-/* ── Hide dates and tags on folder listing pages ─────────────────────
-   The section list shows a date column and tag pills next to each
-   entry — neither is useful in a wiki context.                        */
-.section-li .meta,
-.section-li .tags {
+/* ── Hide dates and tags on folder listing pages ─────────────────────*/
+li.section-li .meta,
+li.section-li .tags,
+.section > .meta,
+.section > .tags {
   display: none !important;
 }
