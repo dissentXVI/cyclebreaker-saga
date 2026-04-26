@@ -4,6 +4,8 @@ aliases:
 tags:
   - cataclysm
 ---
+
+# The Seventh Cataclysm
 ## Origin
 The Folly of Levin the Blue began not with prayer or ambition, but with greed. Levin the Blue, a boastful Freeman and infamous plunderer of the sea, ransacked merfolk sanctuaries and looted sacred relics from the cliff-temples of [[Avosa Tesota|Avosa]], never questioning the volatile [[pneuma]] sealed within. By accident — or perhaps by destiny — he completed a long-forgotten rite, summoning [[Tupachachum, the Coiled Lightning|Tupachachum]]: a vast sky-serpent of storm and wrath, crackling with lightning pneuma and cloaked in swirling thunderclouds. She struck him down instantly, reducing Levin to ash and ozone. Above his smoking remains, the sky turned silver-blue. The [[Paragons|Paragon]] had arrived.
 ## Overview

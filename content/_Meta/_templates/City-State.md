@@ -1,6 +1,7 @@
 ---
-aliases: 
+aliases:
 tags:
+draft:
 ---
 
 **Date Founded**:

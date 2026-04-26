@@ -8,7 +8,7 @@ tags:
 image: Allythoia_v3.webp
 ---
 
-![[Allythoia_v3.webp]]
+![[Allythoia_v4.webp]]
 
 **Race**: [[Predecessors|Predecessor]]
 

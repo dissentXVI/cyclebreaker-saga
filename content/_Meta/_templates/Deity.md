@@ -3,6 +3,7 @@ aliases:
 tags:
   - deity
 image:
+draft:
 ---
 ![[Adrien-Frost.webp]]
 

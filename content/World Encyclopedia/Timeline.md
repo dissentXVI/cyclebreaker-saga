@@ -26,7 +26,7 @@ The World Unsundered - The star ([[Neumeris]]) is whole. Powerful beings known a
 
 *The Fifth Shard falls to fire pneuma causing…*
 
-***[[The Salamandron's Famine]]*** - A heatwave encompassing the world, drying farmland to cracking ground and dust, withering crops as they stood, and severely limiting rainfall and water flow across the planet. Myth holds that the proto-Navarreasean scholar invoked Higher Magic for the first time and calmed the sun, though this would later be blamed for the [[Wodr's Revenge |second cataclysm]].
+***[[Salamandron's Famine]]*** - A heatwave encompassing the world, drying farmland to cracking ground and dust, withering crops as they stood, and severely limiting rainfall and water flow across the planet. Myth holds that the proto-Navarreasean scholar invoked Higher Magic for the first time and calmed the sun, though this would later be blamed for the [[Wodr's Revenge |second cataclysm]].
 
 ***[[Telothians]] attack [[Thyraxia]]*** - On the crystalline world of [[Thyraxia]], where dragonkind soared among volcanic skies and lattice-mountains of sentient crystal, a silence fell. The [[Telothians]] — synthetic intelligences forged for eradication — descended from beyond the firmament, intent on harvesting pneuma-rich life. Their engines of nullification swept across continents.
 

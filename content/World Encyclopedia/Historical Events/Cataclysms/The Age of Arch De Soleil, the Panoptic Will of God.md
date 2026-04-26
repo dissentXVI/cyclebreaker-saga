@@ -4,6 +4,7 @@ aliases:
 tags:
   - cataclysm
 ---
+# The Fifth Cataclysm
 ## Origin
 The Fifth Cataclysm is unique among the Stygian Ages in that its destruction was not wrought by flood, fire, or storm, but by the treachery of dragonkind. In 2854 ApN, the dragon [[Skadraxes]] launched an unprovoked assault against [[The Light of Alophia]], targeting Archbishop Renard Louis himself. In answer to his prayers, [[Alophia]] granted him Her holy power, transforming him into the [[Paragons|Paragon]] [[Arch De Soleil]]. The surge of law pneuma that followed did not raze cities or drown harvests — it imposed order, and in doing so, reshaped the world.
 ## Overview

@@ -3,6 +3,7 @@ aliases:
 tags:
   - minor-character
 image:
+draft:
 ---
 
 ![[Adrien-Frost.webp]]

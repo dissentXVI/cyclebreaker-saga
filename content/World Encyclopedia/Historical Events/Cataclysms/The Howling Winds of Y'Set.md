@@ -4,6 +4,8 @@ aliases:
 tags:
   - cataclysm
 ---
+
+# The Sixth Cataclysm
 ## Origin
 The Howling Winds of Y'Set began in 3038 ApN when a fringe cult of fanatics rediscovered the ancient rites of [[Y'Set, the Galloping Squall|Y'Set]], a minor wind god once worshipped by the now-extinct sand minotaurs of the deep deserts of [[Tarwa'kem]]. With no formal knowledge of [[Paragons]] prior to this event, few recognized the significance of what was being summoned until it was too late. The forbidden rites were performed in a remote canyon stronghold, and [[Y'Set, the Galloping Squall|Y'Set]] was brought into full manifestation — a towering camel-headed monstrosity with serpentine tongues and feathered wings, dragging unnatural winds and roaring storms in its wake. This event marked the first known [[Paragons|Paragon]]
 ## Overview

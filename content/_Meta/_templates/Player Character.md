@@ -3,6 +3,7 @@ aliases:
 tags:
   - pc
 image:
+draft:
 ---
 
 ![[Adrien-Frost.webp]]

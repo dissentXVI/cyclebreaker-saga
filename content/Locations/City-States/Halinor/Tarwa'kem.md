@@ -28,13 +28,13 @@ Sandstone walls, subterranean halls, obsidian and gold trim, solar and ancestor 
 
 ##### Government Structure
 
-Tarwa'kem is a sultanate led by its monarch—currently Sultana [[Neema Karo'kem]]—with real power balanced, and often manipulated, by the [[Monetarist Council]], a coalition of wealthy merchants and nobles. While the Sultan or Sultana theoretically rules by divine and historical right, the Council's economic control frequently defines the limits of that authority. In times of succession uncertainty, the Council's grip tightens accordingly.
+Tarwa'kem is a sultanate led by its monarch—currently Sultana [[Neema Karo'kem]]—with real power balanced, and often manipulated, by [[The Monetarist Council]], a coalition of wealthy merchants and nobles. While the Sultan or Sultana theoretically rules by divine and historical right, the Council's economic control frequently defines the limits of that authority. In times of succession uncertainty, the Council's grip tightens accordingly.
 
 ##### Key Factions
 
 - **[[The Karo'kem Dynasty]]** – The ruling family, in power since the Sixth Stygian Age.
 - **[[The Monetarist Council]]** – A coalition of elite merchant guild leaders and wealthy nobles who hold the city's true economic reins.
-- **[[The Dwarven Clans]]** – Ancient lineages who still command traditional respect, though many have faded from direct political power.
+- **The Dwarven Clans** – Ancient lineages who still command traditional respect, though many have faded from direct political power.
 
 ##### Spiritual Beliefs
 
@@ -71,7 +71,7 @@ Arid and mountainous, with dramatic sunrises over a jagged skyline. Water is cha
 
 ##### Historical Significance
 
-Tarwa'kem's origin lies in the ashes of the [[War of Enchanted Anvils]], during which dwarven tribes resisted the [[Navarresean Empire]]. The [[Third Cataclysm]]—known as the Tempest of Madness—shattered the stalemate with apocalyptic floods and madness-inducing waters. The surviving dwarves retreated into the mountains and later emerged unified, founding Tarwa'kem and heralding the dawn of the Third Radiant Age.
+Tarwa'kem's origin lies in the ashes of [[The Second Celestial Campaign|The War of Enchanted Anvils]], during which dwarven tribes resisted the [[Navarresean See|Navarresean Empire]]. [[The Tempest of Madness|The Third Cataclysm]]—known as the Tempest of Madness—shattered the stalemate with apocalyptic floods and madness-inducing waters. The surviving dwarves retreated into the mountains and later emerged unified, founding Tarwa'kem and heralding the dawn of the Third Radiant Age.
 
 ##### Current Events
 
@@ -82,7 +82,7 @@ Tensions rise as Sultana Neema challenges entrenched wealth in an effort to elev
 - **[[Neema Karo'kem]]** – Young, reform-minded Sultana navigating the gulf between idealism and entrenched power.
 - **[[Ngor Azizi]]** – Ruthless mining magnate and dominant voice on the Monetarist Council.
 - **[[Amasis Ramses]]** – Subtle political rival to Azizi; operates through influence rather than force.
-- **[[Tarik Tazi]]** – General of the [[Gilded Legion]] and council member.
+- **[[Tarik Tazi]]** – General of [[The Gilded Legion]] and council member.
 - **[[Omar Zahir]]** – Patriarch with a secret past as a poisoner.
 - **[[Laena Zahir]]** – Noblewoman turned wanderer, seeking a cure for her sister.
 

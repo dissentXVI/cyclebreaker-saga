@@ -2,6 +2,7 @@
 aliases:
 tags:
   - region
+draft:
 ---
 
 

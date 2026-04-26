@@ -5,6 +5,8 @@ aliases:
 tags:
   - cataclysm
 ---
+
+# The Third Cataclysm
 ## Origin
 The Tempest of Madness was unleashed in 2012 ApN by Emperor [[Thallan Lael'Nathor II]], the final ruler of the Navarresean Empire. Consumed by grief and a nihilistic conviction that death was inescapable and life therefore meaningless, he turned the power of [[The Cosmic Pillar]] toward destruction, triggering a catastrophic surge of water pneuma that drowned the world in flood and madness.
 ## Overview

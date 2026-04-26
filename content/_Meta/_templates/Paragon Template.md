@@ -1,7 +1,8 @@
 ---
-aliases: 
+aliases:
 tags:
   - paragon
+draft:
 ---
 
 ![[image.webp]]## Origin

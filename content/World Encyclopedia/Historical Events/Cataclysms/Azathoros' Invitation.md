@@ -4,6 +4,7 @@ aliases:
 tags:
   - cataclysm
 ---
+# The Fourth Cataclysm
 ## Origin
 Azathoros' Invitation swept across [[Halinor]] in 2203 ApN, during the fragile recovery following the Tempest of Madness. A surge of chaos pneuma destabilized the bonds of community and governance that survivors had painstakingly rebuilt, turning neighbor against neighbor and fracturing families and institutions from within. Many scholars draw a direct line from the lingering psychological damage of the Tempest of Madness to the ease with which this cataclysm took hold — arguing that the madness of the third cataclysm had already loosened the world's resistance. [[The Light of Alophia]], however, holds a different view entirely: that the demon Azathoros stirred in his slumber, and that the resonance of his dreaming bled through the world's veil and into mortal minds.
 ## Overview

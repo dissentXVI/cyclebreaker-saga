@@ -2,6 +2,7 @@
 aliases:
 tags:
   - continent
+draft:
 ---
 
 ## Summary

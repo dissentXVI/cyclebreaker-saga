@@ -1,6 +1,7 @@
 ---
-aliases: 
+aliases:
 tags:
+draft:
 ---
 
 >"Quote that defines their purpose or ethos."

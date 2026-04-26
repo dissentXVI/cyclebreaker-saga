@@ -2,6 +2,7 @@
 aliases:
 tags:
   - cataclysm
+draft:
 ---
 ## Origin
 ## Overview

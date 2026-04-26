@@ -1,4 +1,5 @@
 ---
-aliases: 
+aliases:
 tags:
+draft:
 ---
