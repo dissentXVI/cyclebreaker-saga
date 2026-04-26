@@ -92,8 +92,8 @@ title: The Cyclebreaker Saga
   line-height: 1.7;
   color: var(--gray);
   font-style: italic;
-  max-width: 680px;
-  margin: 0;
+  text-align: center;
+  margin: 0 auto;
 }
 
 /* ── Story So Far Button ─────────────────────────────── */
