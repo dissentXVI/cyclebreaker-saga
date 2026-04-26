@@ -69,9 +69,7 @@
 }
 
 /* ── Hide dates and tags on folder listing pages ─────────────────────*/
-li.section-li .meta,
-li.section-li .tags,
-.section > .meta,
-.section > .tags {
+li.section-li > .section > .tags,
+li.section-li > .section .meta {
   display: none !important;
 }
