@@ -4,10 +4,9 @@ tags:
   - deity
 image:
 ---
-![[Caphos_Sculptor_of_Fire_A_Charcoal_Tribute_to_Caphos.webp]]  
-*Sculptor of Fire: A Charcoal Tribute to Caphos by Rohar Boulos*
+![[Caphos_Stroke_iso.webp]]
 
->*“Strike once with purpose. Strike twice with mercy. Strike thrice, and let it hold.”*  
+>*"Strike once with purpose. Strike twice with mercy. Strike thrice, and let it hold."*  
 *— The Hammer Hymns, Verse 9*  
   
 ## Alias(es)  
@@ -35,29 +34,32 @@ Caphos is the god of invention, craftsmanship, and the divine fire that drives b
 He is a god of mercy, too. It is said that He stilled the volcano of His birth, turning a cataclysm into a gift: hotsprings and geothermal wonders that made the desert livable. From His example, mortals are taught that power and precision must be tempered by kindness, and that creation should serve rather than dominate.  
   
 ## Spread  
-Caphos’s worship is strongest in regions where the forge sings—where engineers, smiths, architects, and artificers gather. His shrines are often built into workshops, foundries, and academies of invention. He is not a distant god; His presence is felt in every cracked callus, every coal-stained page, and every tool lovingly made.  
+Caphos's worship is strongest in regions where the forge sings—where engineers, smiths, architects, and artificers gather. His shrines are often built into workshops, foundries, and academies of invention. He is not a distant god; His presence is felt in every cracked callus, every coal-stained page, and every tool lovingly made.  
   
 ## Cultural Reception  
   
 #### [[Aqualonde]]  
-[[The Fauconwood]] does not burn easily, and neither does it often call to stone. Worship of Caphos is light here, not out of disdain but out of elemental divergence. [[Demeria]]’s faithful are known to keep their distance from the flame-born craftsman, though those of [[The Moonblade Forge|the Moonblades]] who work metal whisper to Him before striking the anvil.  
+[[The Fauconwood]] does not burn easily, and neither does it often call to stone. Worship of Caphos is light here, not out of disdain but out of elemental divergence. [[Demeria]]'s faithful are known to keep their distance from the flame-born craftsman, though those of [[The Moonblade Forge|the Moonblades]] who work metal whisper to Him before striking the anvil.  
   
 #### [[Avosa Tesota]]  
-The Avosans value invention—but not perfection. Caphos is respected more as a patron of cleverness than of meticulous craft. Coastal cities rarely house true forges, but inland guildhalls and shipwright enclaves do. His name is often invoked by designers and engineers more than smiths, and His worship here favors the artisan’s spark over tradition.  
+The Avosans value invention—but not perfection. Caphos is respected more as a patron of cleverness than of meticulous craft. Coastal cities rarely house true forges, but inland guildhalls and shipwright enclaves do. His name is often invoked by designers and engineers more than smiths, and His worship here favors the artisan's spark over tradition.  
   
 #### [[Heldenheim|Carinthia]]  
 Though worship of Caphos is rare in modern [[Heldenheim|Carinthia]], hints of dwarven design endure in the ancient citadels. Some architects whisper that His hand guided the masons of Heldenheim, and the hot springs near fortress towns are rumored gifts of the Maker Below. Caphos receives little open worship, but perhaps the Gray Lady tolerates His silent aid.  
   
 #### [[D'yadya]]  
-Long ago, when the trade roads through the salt flats still thrived, Caphos was invoked in tandem with [[Haelaxa]]. Tools for caravan repair, hearthfires, and crafted wheels bore His mark. Among D’yadyan refugees, some of this worship endures, particularly among those attempting to rebuild what was lost.  
+Long ago, when the trade roads through the salt flats still thrived, Caphos was invoked in tandem with [[Haelaxa]]. Tools for caravan repair, hearthfires, and crafted wheels bore His mark. Among D'yadyan refugees, some of this worship endures, particularly among those attempting to rebuild what was lost.  
   
 #### [[Shurevaire]]  
-Caphos is respected but not widely worshipped in [[Shurevaire]]. His influence is seen most clearly in the city’s artificers and magical engineers, who maintain private shrines to the Craftsman in their workshops. The university alchemy departments and mechanical guilds offer small tributes of bituminous coal at the start of each season. While Caphos is not central to daily religious life, He is acknowledged in dedications of invention and treatises on practical magic. Some see Him as a foil to [[Alophia]]: where She teaches, He builds.  
+Caphos is respected but not widely worshipped in [[Shurevaire]]. His influence is seen most clearly in the city's artificers and magical engineers, who maintain private shrines to the Craftsman in their workshops. The university alchemy departments and mechanical guilds offer small tributes of bituminous coal at the start of each season. While Caphos is not central to daily religious life, He is acknowledged in dedications of invention and treatises on practical magic. Some see Him as a foil to [[Alophia]]: where She teaches, He builds.  
   
 #### [[Tarwa'kem]]  
-Nowhere is Caphos more fully embraced than in [[Tarwa’kem]], His birthplace and the seat of dwarven legacy. Their forges run hot with His breath, and the perfectionism of their smiths, masons, and metallurgists is legendary. Whether through the mighty [[Sha’khaw Smithing Company]] or guild temples deep in the [[Ash Ward]], His worship is alive, loud, and blazing. The cynical may claim that only Commerce is truly worshipped in the desert kingdom, but the quality of their craft suggests otherwise.  
+Nowhere is Caphos more fully embraced than in [[Tarwa'kem]], His birthplace and the seat of dwarven legacy. Their forges run hot with His breath, and the perfectionism of their smiths, masons, and metallurgists is legendary. Whether through the mighty [[Sha'khaw Smithing Company]] or guild temples deep in the [[Ash Ward]], His worship is alive, loud, and blazing. The cynical may claim that only Commerce is truly worshipped in the desert kingdom, but the quality of their craft suggests otherwise.  
   
 ## In Art  
+![[Caphos_Sculptor_of_Fire_A_Charcoal_Tribute_to_Caphos.webp]]  
+*Sculptor of Fire: A Charcoal Tribute to Caphos by Rohar Boulos*
+
 Caphos is always depicted with a smile, often in the middle of labor:  
   
 A tall, broad-shouldered dwarf, skin soot-dark, arms strong, and eyes glowing with invention  
