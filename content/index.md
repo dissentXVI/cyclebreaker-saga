@@ -7,7 +7,7 @@ title: The Cyclebreaker Saga
 </div>
 
 <div class="home-story-link">
-  <a href="Chronicles/The Story So Far...." class="story-button">
+  <a href="Chronicles/The Story So Far" class="story-button">
     <span class="story-icon">⟡</span>
     <span class="story-text">
       <strong>The Story So Far...</strong>
