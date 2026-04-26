@@ -1,7 +1,69 @@
-@use "./base.scss";
+/* ── Logo: replace "Quartz 4" text with the campaign symbol ──────────
+   We hide the text link and replace the h2 with a centred logo image.
+   The ::after pseudo-element renders the image so no layout dims change. */
+.page-title {
+  width: calc(100% + 4rem);
+  margin-left: -2rem;
+  margin-right: -2rem;
+}
 
-// put your custom CSS here!
+.page-title a {
+  font-size: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem 0;
+  line-height: 0;
+  width: 100%;
+}
 
-.tags {
+.page-title a::after {
+  content: "";
+  display: block;
+  width: 150px;
+  height: 150px;
+  min-width: 150px;
+  background-image: url("/static/CB_Symbol_Glow.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* Invert black strokes to white on dark theme */
+  filter: invert(0);
+  opacity: 0.85;
+  transition: opacity 0.2s ease;
+  transform: translateX(-36px);
+}
+
+.page-title a:hover::after {
+  opacity: 1;
+}
+
+/* Restore original black strokes on light theme */
+:root[saved-theme="light"] .page-title a::after {
+  filter: invert(0);
+}
+
+/* ── Logo: override base.scss global img rule ────────────────────────
+   Ensures no rogue margin/border-radius leaks onto the logo image.    */
+.page-title img {
+  margin: 0 !important;
+  border-radius: 0 !important;
+}
+
+/* ── Center the page title on the homepage only ──────────────────────*/
+.article-title {
+  text-align: left;
+}
+
+[data-slug="index"] .article-title {
+  text-align: center;
+  width: 100%;
+}
+
+/* ── Hide date / read-time on homepage and folder list pages ─────────
+   Article pages still show ContentMeta via ConditionalRender in
+   quartz.layout.ts — this catches any remaining cases via CSS.        */
+[data-slug="index"] .content-meta,
+.folder-listing .content-meta {
   display: none;
 }
