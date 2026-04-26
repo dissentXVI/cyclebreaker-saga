@@ -10,17 +10,17 @@ image: Allythoia_v3.webp
 
 ![[Allythoia_v4.webp]]
 
-**Race**: [[Predecessors|Predecessor]]
+**Race**: Unknown
 
 **Gender**: Female
 
-**Age**: Timeless
+**Age**: Unknown
 
 **Eyes**: Concealed — hidden behind a gold-filigreed blindfold mask
 
 **Hair**: Unknown
 
-**Attire**: Deep black hooded cloak over ornately engraved black and gold armor; gold-filigreed blindfold mask
+**Attire**: Deep black hooded cloak; gold-filigreed blindfold mask
 
 **Home:** Unknown
 
