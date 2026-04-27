@@ -1,6 +1,7 @@
 ---
 character: Laena
-tags: [interlude, laena, family, letters, party, laconia]
+tags:
+  - interlude
 ---
 
 # Letters from Laena — Part 2

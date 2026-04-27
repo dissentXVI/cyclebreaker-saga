@@ -28,7 +28,7 @@ Zumrah was built for a battlefield rather than a court, and looked it. Broad-sho
 
 ## Personality
 
-Zumrah was defined by loyalty. His dedication plaque in the [[Garden of Asj'Norriah]], placed in the stead of his sworn liege, is the clearest window into his character: a fearsome battlefield commander who made his dedication about the emperor rather than himself, who fed his soldiers Titan's Reach to make them stronger, and who encoded the flower's properties in a soldier's rhyme so his men could remember it in the field.
+Zumrah was defined by loyalty. His dedication plaque in the Garden of Asj'Norriah, placed in the stead of his sworn liege, is the clearest window into his character: a fearsome battlefield commander who made his dedication about the emperor rather than himself, who fed his soldiers Titan's Reach to make them stronger, and who encoded the flower's properties in a soldier's rhyme so his men could remember it in the field.
 
 He believed in the people under his command in the practical, unglamorous way of someone who has watched them bleed. His later role as guard to [[Caelum Aes'Thiir]] suggests the emperor trusted him with something more personal than the campaign — which, given Aes'Thiir's character, says something about the kind of man Zumrah was.
 
@@ -36,7 +36,7 @@ Whether he shared his emperor's indifference to the costs of the First Celestial
 
 ## Narrative Relevance
 
-Zumrah appears in the [[Garden of Asj'Norriah]] as the dedicant of the Titan's Reach plaque — standing in for [[Caelum Aes'Thiir]] as an act of loyalty that outlasted both of them. The rhyme he left is the only surviving record of his voice:
+Zumrah appears in the Garden of Asj'Norriah as the dedicant of the [[Titan's Reach]] plaque — standing in for [[Caelum Aes'Thiir]] as an act of loyalty that outlasted both of them. The rhyme he left is the only surviving record of his voice:
 
 *By ones and threes, fives for sure*
 *Titan's blood shall e'er endure*

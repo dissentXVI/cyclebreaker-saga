@@ -1,6 +1,7 @@
 ---
 character: Other
-tags: [interlude, reyn, layla, opars, shurevaire, expedition, new-character]
+tags:
+  - interlude
 ---
 
 # A Story Begins

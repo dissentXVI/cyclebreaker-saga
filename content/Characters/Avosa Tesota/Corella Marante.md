@@ -48,7 +48,7 @@ Though they were born into wealth, Corella has long shed the silk of aristocracy
 To allies, they are a vibrant force of inspiration. To rivals, a storm that announces itself with a smile.
 ## Character History
 
-Corella Marante was born on the sun-drenched isle of [[Ceralde]], one of the wealthier holdings in the [[Aflado Gulf]]. Their family were pearl magnates and spice barons — nobles in all but name, with a lineage steeped in trade, artifice, and quiet influence among several Fleet Captains and maritime guilds. From a young age, Corella was groomed to inherit a fleet of merchant schooners and a seat in the [[House of Maritime Shares]].
+Corella Marante was born on the sun-drenched isle of Ceralde, one of the wealthier holdings in the [[Aflado Gulf]]. Their family were pearl magnates and spice barons — nobles in all but name, with a lineage steeped in trade, artifice, and quiet influence among several Fleet Captains and maritime guilds. From a young age, Corella was groomed to inherit a fleet of merchant schooners and a seat in the House of Maritime Shares.
 
 But wealth was never enough.
 
@@ -56,14 +56,14 @@ At sixteen, they vanished from their family estate, leaving only a letter and an
 
 In the harbor taverns of [[Avosa Tesota]], they met a young bureaucrat named [[Isaacs Cabres]]. He bought them a drink they didn’t need and asked them a question no one else had: “What happens after the storm?” They liked him instantly.
 
-Over the next two decades, they rose together — Corella the stormfront, [[Isaacs]] the harbormaster behind the scenes. Their bond turned heads and turned tides. When the time came to elect a new Admiral, it was [[Isaacs]] who pushed their nomination across the finish line.
+Over the next two decades, they rose together — Corella the stormfront, [[Isaacs Cabres|Isaacs]] the harbormaster behind the scenes. Their bond turned heads and turned tides. When the time came to elect a new Admiral, it was [[Isaacs Cabres|Isaacs]] who pushed their nomination across the finish line.
 
 They have held the title ever since, and their Banner has not faltered once.
 ## Current Status
 
 As Admiral of [[The Congress of Captains]], Corella Marante walks the highwire between liberty and law. Their greatest challenge now lies not in foreign waters — but in the shadows of their own coast.
 
-Rumors have reached their desk that [[Serpiosa]], a semi-autonomous outlaw settlement nestled in [[the Gragato Jungle]], has begun trafficking in slaves — a crime explicitly forbidden under Avosan Charter Law. More disturbing are the whispers that the victims are not humans, but members of the local gnolls, long believed protected under Avosa’s Treaty of Kinship.
+Rumors have reached their desk that [[Serpiosa]], a semi-autonomous outlaw settlement nestled in [[Gragato Jungle|The Gragato Jungle]], has begun trafficking in slaves — a crime explicitly forbidden under Avosan Charter Law. More disturbing are the whispers that the victims are not humans, but members of the local gnolls, long believed protected under Avosa’s Treaty of Kinship.
 
 Marante has responded with quiet fury. They dispatched bounty hunters and covert agents to infiltrate the town, expose the ringleaders, and shut down the trade. But most who go either vanish or return empty-handed, spooked by the depth of corruption and the wilderness that swallows trails.
 

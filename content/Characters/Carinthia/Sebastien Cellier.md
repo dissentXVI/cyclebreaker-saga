@@ -32,7 +32,7 @@ image: Lightwarden.webp
 
 **Attire**: Ornate blue and gold plate with Carinthian etchings
 
-**Home**: [[Heldenheim]], [[Carinthia]]
+**Home**: [[Heldenheim]]
 
 ## Appearance
 
@@ -40,15 +40,15 @@ As the Lightwarden, Sebastien is a towering figure in ornate, frost-trimmed armo
 
 ## Personality
 
-Taciturn and unflinchingly loyal, Sebastien is a blade in the hands of [[Carinthia]] — and wields himself as such. Though he answers directly to [[Adrien Frost]], his devotion to the defense of the realm borders on religious. He holds little patience for politics or priests, seeing doctrine as useful only when it protects the innocent. A soldier first, and a symbol second, Sebastien speaks rarely but never wastes words. He is haunted by his past, and every scar he hides beneath his armor is a penance for a mistake he refuses to name.
+Taciturn and unflinchingly loyal, Sebastien is a blade in the hands of [[Heldenheim|Carinthia]] — and wields himself as such. Though he answers directly to [[Adrien Frost]], his devotion to the defense of the realm borders on religious. He holds little patience for politics or priests, seeing doctrine as useful only when it protects the innocent. A soldier first, and a symbol second, Sebastien speaks rarely but never wastes words. He is haunted by his past, and every scar he hides beneath his armor is a penance for a mistake he refuses to name.
 
 ## Character History
 
-Sebastien Cellier was born to a minor noble house in eastern [[Carinthia]], known more for its martial traditions than its wealth. Orphaned during a draconic raid in the early years of the [[Wyrmsfall War]], Sebastien was raised in the garrison at [[Somerthal]] and quickly showed a gift for combat — particularly against wyrms. He was handpicked by [[Adrien Frost]] after the [[Battle of Vaeld's Crossing]], where he saved a full squadron from a drake ambush. Named the Lightwarden after singlehandedly slaying a skyborn tyrant above the [[Crystal Bridge]], he has since become both myth and warning to Carinthia’s foes.
+Sebastien Cellier was born to a minor noble house in eastern [[Heldenheim|Carinthia]], known more for its martial traditions than its wealth. Orphaned during a draconic raid in the early years of the [[Wyrmsfall War]], Sebastien was raised in the garrison at [[Somerthal]] and quickly showed a gift for combat — particularly against wyrms. He was handpicked by [[Adrien Frost]] after the [[Battle of Vaeld's Crossing]], where he saved a full squadron from a drake ambush. Named the Lightwarden after singlehandedly slaying a skyborn tyrant above the [[The Crystal Bridge|Crystal Bridge]], he has since become both myth and warning to Carinthia’s foes.
 
 ## Current Status
 
-Sebastien serves as [[Carinthia]]’s Lightwarden, the personal spear of [[Adrien Frost]] and protector of [[City-State]]. He operates outside the Inquisition’s purview, trusted to act with lethal discretion. While he rarely speaks at court, his presence commands immediate attention. His current mission is currently unknown.
+Sebastien serves as [[Heldenheim|Carinthia]]’s Lightwarden, the personal spear of [[Adrien Frost]] and protector of [[Heldenheim|Carinthia]]. He operates outside the Inquisition’s purview, trusted to act with lethal discretion. While he rarely speaks at court, his presence commands immediate attention. His current mission is currently unknown.
 
 ## Combat Style
 

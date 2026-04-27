@@ -7,7 +7,9 @@ tags:
   - vociterra
   - npc
   - villain
+  - gm-only
 image: Isa-Rajab_v2.webp
+draft: true
 ---
 
 ![[Isa-Rajab_v2.webp]]

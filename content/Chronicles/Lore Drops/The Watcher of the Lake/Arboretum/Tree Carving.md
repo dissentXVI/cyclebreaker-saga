@@ -1,5 +1,8 @@
 ---
-tags: [lore-drop, watcher-of-the-lake, arboretum, navarresean-empire, thallan-ii, amastacia]
+tags:
+  - lore-drop
+  - watcher-of-the-lake
+  - navarresean-empire
 source: Found in the Arboretum of the [[Watcher of the Lake]]
 ---
 

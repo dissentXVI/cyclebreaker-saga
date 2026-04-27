@@ -46,16 +46,16 @@ She detests violence, but will not shy from it if the land is threatened. She wa
 Privately, Maylin longs for stillness and anonymity—luxuries she has not known since she was called to serve.
 ## Character History
 
-Born in the final decades of [[the Seventh Stygian Age]], Maylin was chosen by [[The Grovebound Circle]] at a young age after displaying a rare connection to the breathflow of [[The Fauconwood]]. Her communion with nature was so deep that trees bent subtly toward her, birds fell silent at her presence, and [[the Fae]] revealed themselves unbidden.
+Born in the final decades of the Seventh Stygian Age, Maylin was chosen by [[The Grovebound Circle]] at a young age after displaying a rare connection to the breathflow of [[The Fauconwood]]. Her communion with nature was so deep that trees bent subtly toward her, birds fell silent at her presence, and [[the Fae]] revealed themselves unbidden.
 
-Trained in both diplomacy and druidic rites, she quickly rose through [[the Earthspeakers]] before being chosen as Seedspeaker—an honor not bestowed in over a century.
+Trained in both diplomacy and druidic rites, she quickly rose through [[The Earthspeakers Circle|the Earthspeakers]] before being chosen as Seedspeaker—an honor not bestowed in over a century.
 
 When [[The Council of Guilds]] fractured following [[The Trembling Foundations]], it was Maylin who brokered a return to unity. Though she holds no formal title of ruler, most of [[Aqualonde]] follows her guidance as if it were law.
 ## Current Status
 
 Maylin continues to serve as Aqualonde’s de facto leader and spiritual guardian. She is presently concerned by the absence of [[the Fae]] within the forest—a sign of coming imbalance. She has also begun quietly investigating rumors of unnatural decay in the Chilmire region to the west and a pneuma degredation near [[Serinvale]].
 
-She recently met with envoys from [[Tarwa’kem]] seeking alliance but has delayed formal commitment until the will of the forest can be discerned.
+She recently met with envoys from [[Tarwa'kem]] seeking alliance but has delayed formal commitment until the will of the forest can be discerned.
 
 ## Combat Style
 

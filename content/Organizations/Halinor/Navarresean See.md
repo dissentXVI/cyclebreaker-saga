@@ -12,6 +12,8 @@ tags:
   - organization
   - halinor
   - historical
+  - to-review
+draft: true
 ---
 
 > "The accomplishments of Our Forebears are undoubtedly the greatest this world has seen."
@@ -49,7 +51,10 @@ The True Elves of highest standing, elevated scholars and courtiers permitted to
 The empire's instrument of internal discipline — a secretive body tasked with suppressing dissent, heterodox scholarship, and any challenge to imperial doctrine. Feared among the Blessed and largely invisible to the Damned.
 
 ### The Damned
-The empire's servant class, produced through the [[Infernal Hybridization Initiative]] during the reign of [[Isandor Vael'Dorath]]. The Damned were used as laborers in mines, as invisible servants within the tower, and as spies moving unseen through the empire's halls. Their creation was framed as a practical necessity of wartime expansion. It was not.
+A servant class produced during the reign of [[Isandor Vael'Dorath]] to sustain the empire's wartime expansion. The Damned were used as laborers in mines, as invisible servants within the tower, and as spies moving unseen through the empire's halls. Their creation was framed as a practical necessity. It was not.
+
+> [!dm] DM Only — Not Revealed to Players
+> The Damned were produced through the [[The Infernal Hybridization Initiative|Infernal Hybridization Initiative]], a research program commissioned by Vael'Dorath and carried out by Dr. [[Alaric Vyrne]]. The Initiative involved the deliberate hybridization of elven subjects with infernal material to create a subservient underclass. They were never asked for their service. They were made for it.
 
 ### The Senatum
 In the empire's earlier centuries, a formal convocation at which representatives of subjugated peoples and lesser elven groups received the Holy Decrees of Law and carried Navarresean directives back to their lands. As the empire hardened, the Senatum became largely ceremonial.
@@ -63,7 +68,7 @@ The Navarresean See emerged from the long freeze of [[Wodr's Revenge]], when a c
 **[[Lira Val'Serin]]**, Nox's successor, expanded the empire's borders through diplomacy as much as force. A shrewd stateswoman, she brought the north, east, and south under Navarre's sway through negotiation, treaty, and the slow, effective pressure of cultural dominance. The lesser elves and allied peoples she incorporated were framed as willing recipients of Navarresean enlightenment.
 
 ### The Arcane Enlightenment (591 – 907 ApN)
-The reign of **[[Eron Asj'Norriah]]** — the Arcane Enlightenment — produced the greatest magical advancements in Navarresean history. Asj'Norriah was an unparalleled sorceress, widely considered the greatest magical mind since Nox himself. She pioneered teleportation through breathstone beacons, and her crowning achievement was the [[Garden of Asj'Norriah]] within the [[Arboretum Wing]] of the [[the Cosmic Pillar]] — a living pneumatic hub of extraordinary elegance. Asj'Norriah also pursued an unusual intellectual project: inviting representatives of lesser races to learn from Navarresean scholarship. Her contemporaries recorded this with faint condescension. Her own writings, largely lost, told a different story.
+The reign of **[[Eron Asj'Norriah]]** — the Arcane Enlightenment — produced the greatest magical advancements in Navarresean history. Asj'Norriah was an unparalleled sorceress, widely considered the greatest magical mind since Nox himself. She pioneered teleportation through breathstone beacons, and her crowning achievement was the Garden of Asj'Norriah and the Arboretum Wing of the [[the Cosmic Pillar]] — a living pneumatic hub of extraordinary elegance. Asj'Norriah also pursued an unusual intellectual project: inviting representatives of lesser races to learn from Navarresean scholarship. Her contemporaries recorded this with faint condescension. Her own writings, largely lost, told a different story.
 
 ### The First Celestial Campaign (907 – 1237 ApN)
 **[[Caelum Aes'Thiir]]** inherited a kingdom of unmatched magical sophistication and used it to begin something far more dangerous. A discovery made by his scholars gave the empire capabilities it had never before possessed, and Aes'Thiir wasted no time. He launched the **First Celestial Campaign**, driving north into the territories of [[Wodirethrax]], [[Skadraxes]], and [[Durnirax]]. When [[Krisnarax]] flew from [[Kokyotos]] to aid his kin, even he fell — slain by then-General [[Isandor Vael'Dorath]]. The campaign broke the First Brood, killing two, scattering others, and binding one. Only [[Wodirethrax]] endured, retreating to the frozen north.
@@ -71,9 +76,10 @@ The reign of **[[Eron Asj'Norriah]]** — the Arcane Enlightenment — produced 
 Not all Navarreseans celebrated. Dissenting voices — quietly circulating essays, suppressed by the Inquest — questioned the wisdom of a war of aggression against creatures who had not struck first, and feared what it meant that the empire's greatest leap forward required such a cost.
 
 ### The Second Celestial Campaign and the Creation of the Damned (1237 – 1572 ApN)
-**[[Isandor Vael'Dorath]]**, made emperor by his victories, turned his ambition east. The **Second Celestial Campaign** drove into dwarven territory, but the dwarves proved a far more costly enemy than anticipated. To sustain the war effort, Vael'Dorath commissioned the **[[Infernal Hybridization Initiative]]**. The Damned were never asked for their service. They were made for it.
+**[[Isandor Vael'Dorath]]**, made emperor by his victories, turned his ambition east. The **Second Celestial Campaign** drove into dwarven territory, but the dwarves proved a far more costly enemy than anticipated. To sustain the war effort, Vael'Dorath commissioned a program to produce a subservient labor and military underclass. The result was the Damned — a people created to serve, and denied any other purpose.
 
-In this same period, the grief-broken [[Nottraxes]] was deceived by an [[The Archorans|Archoran]] into summoning a shade of her slain brother [[Krisnarax]]. What returned was not him — it was a twisted hollow mockery, subsequently bound and used to power the [[the Cosmic Pillar]].
+> [!dm] DM Only — Not Revealed to Players
+> The program was the [[Infernal Hybridization Initiative]], carried out by Dr. [[Alaric Vyrne]]. Its full scope, methods, and what it ultimately produced extend far beyond what surviving imperial records acknowledge. In this same period, the grief-broken [[Nottraxes]] was deceived by an [[The Archorans|Archoran]] into summoning a shade of her slain brother [[Krisnarax]]. What returned was not him — it was a twisted hollow mockery, subsequently bound and used to power the [[the Cosmic Pillar]].
 
 ### The Golden Age and the War Council (1572 – 1688 ApN)
 **[[Phaendra Yin'Balar]]** formed the Navarresean War Council and began construction on **[[Taras'Nula]]** — the empire's most ambitious scientific installation, designed to concentrate its highest research and arcane capability. This was the zenith of Navarresean military might. [[Nottraxes]], overwhelmed by guilt over the shade she had unleashed, surrendered herself to the empire and was bound as a living power source within Taras'Nula. Yin'Balar died on the battlefield, undone by a dwarven feint that turned into a rout.
@@ -84,15 +90,18 @@ In this same period, the grief-broken [[Nottraxes]] was deceived by an [[The Arc
 ### The Descent and the Fall (1987 – 2012 ApN)
 **[[Amastacia Lael'Nathor]]** seized the throne by poisoning her husband and ruled with an iron fist, reigniting the fires of war and rooting out any real or imagined threat to her power. As her reign progressed, she drew closer to Dr. **[[Thalaniel Shamashur]]**, a biomancer of extraordinary and increasingly unethical capability. Reports reached the ears of the Blessed that Shamashur was conducting experiments on True Elves within the tower — and that Amastacia, when confronted, showed no surprise.
 
-Eventually, both her body and mind deteriorated. With her soul already decaying, she charged Shamashur with cloning her — with making her live forever. The work was not finished in time. Her body was transferred to Taras'Nula, where research continued.
+Eventually, both her body and mind deteriorated. With her soul already decaying, she charged Shamashur with preserving her life by any means necessary. The work was not finished in time. Her body was transferred to Taras'Nula, where research continued.
 
-Her son, **[[Thallan Lael'Nathor II]]**, ruled in her absence — but barely. He spent his days in grief and isolation, haunted by what his mother had become. When Shamashur, aided by an Archoran, succeeded in producing a clone of Amastacia — grotesque and hollow — Thallan II was sickened rather than comforted.
+Her son, **[[Thallan Lael'Nathor II]]**, ruled in her absence — but barely. He spent his days in grief and isolation, haunted by what his mother had become. When Shamashur's efforts produced something grotesque and hollow rather than a restoration, Thallan II was sickened rather than comforted.
+
+> [!dm] DM Only — Not Revealed to Players
+> Shamashur's goal, aided by the Archoran [[Allythoia]], was to clone Amastacia entirely — to make her immortal through duplication. What was produced was not her. The clone was a failure by any measure, and Thallan II's witnessing of it was the final break.
 
 Believing that death was inescapable and life therefore meaningless, Thallan II turned the power of the [[the Cosmic Pillar]] upon the world and brought down the **[[The Tempest of Madness|Tempest of Madness]]** — the cataclysm that ended the Navarresean See entirely. The empire dissolved in flood and madness, its technology reverting to a pre-Navarresean baseline, Taras'Nula vacated and silent.
 
 ## Legacy
 
-The Navarresean See has been gone for over two thousand years, but its shadow stretches across every living city-state of [[Halinor]]. [[Carinthia]] was founded by elves fleeing its collapse. [[Tarwa'kem]] rose from the dwarven clans who survived its wars. The Damned it created became a people in their own right. Its breathstone architecture and pneuma-craft systems still hum in ruins scholars have barely begun to understand.
+The Navarresean See has been gone for over two thousand years, but its shadow stretches across every living city-state of [[Halinor]]. [[Heldenheim|Carinthia]] was founded by elves fleeing its collapse. [[Tarwa'kem]] rose from the dwarven clans who survived its wars. The Damned it created became a people in their own right. Its breathstone architecture and pneuma-craft systems still hum in ruins scholars have barely begun to understand.
 
 Its two greatest physical legacies — [[the Cosmic Pillar]] (the Watcher of the Lake) and [[Taras'Nula]] — remain active and dangerous. The Tower was recently resurfaced by the cataclysm known as the [[The Trembling Foundations|Trembling Foundations]], its breathstone spire revealed in the drained basin of what is now the [[Sticaean Abyss]]. Reyn'lael Joran, last heir to the Lael'Nathor bloodline, surrendered himself to its throne. What followed altered the Tower's status in ways not yet fully understood.
 
@@ -102,6 +111,5 @@ The Navarresean See believed itself a paradise in the making. It built its golde
 
 - **Rulers:** [[Faedranathel Nox]], [[Lira Val'Serin]], [[Eron Asj'Norriah]], [[Caelum Aes'Thiir]], [[Isandor Vael'Dorath]], [[Phaendra Yin'Balar]], [[Thallan Lael'Nathor]], [[Amastacia Lael'Nathor]], [[Thallan Lael'Nathor II]]
 - **Key Figures:** [[Alaric Vyrne]], [[Thalaniel Shamashur]], [[Reyn'lael Joran]]
-- **Locations:** [[the Cosmic Pillar]], [[Taras'Nula]], [[Garden of Asj'Norriah]]
-- **Events:** [[First Celestial Campaign]], [[Infernal Hybridization Initiative]], [[The Tempest of Madness]], [[The Trembling Foundations]]
-- **Organizations:** [[The Archorans]]
+- **Locations:** [[the Cosmic Pillar]], [[Taras'Nula]]
+- **Events:** [[The First Celestial Campaign|First Celestial Campaign]], [[The Tempest of Madness]], [[The Trembling Foundations]]

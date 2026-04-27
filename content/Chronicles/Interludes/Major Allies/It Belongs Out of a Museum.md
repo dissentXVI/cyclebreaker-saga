@@ -1,6 +1,7 @@
 ---
 character: Theo, Ylaena
-tags: [interlude, theo, ylaena, shurevaire, velethoui, staff, heist]
+tags:
+  - interlude
 ---
 
 # It Belongs Out of a Museum

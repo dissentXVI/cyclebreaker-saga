@@ -16,5 +16,7 @@ The uprising, when it came, was continent-spanning and ruthlessly coordinated. O
 
 When the war was won, Meonus led his people across the ocean to the frozen northern reaches of the continent of [[Eldamar]], where they founded [[Patria Noster]] and declared the nation of [[Vociterra]]. The Fati Imperium — meaning "the will of fate" — became the founding myth of Vociran identity: proof that discipline, invention, and unified will could overcome any power that claimed divine right.
 
-> [!gm] GM Only
+## Secrets
+
+> [!dm] DM Only — Not Revealed to Players
 > Meonus sep Magnus was not who he appeared to be. His true identity and the full scope of his involvement in Aspirian history run far deeper than the founding of an empire. The Vociran people do not know this, and the Empire's entire ideological foundation rests on a version of history that is, at best, incomplete.

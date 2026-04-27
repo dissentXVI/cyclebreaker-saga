@@ -13,7 +13,7 @@ image: Selphie_Aldren.webp
 
 **Title**: None
 
-**Allegiance**: [[Sharl]]
+**Allegiance**: [[Sharl van der Cleev|Sharl]]
 
 **Race**: Elf
 

@@ -1,6 +1,7 @@
 ---
 character: Other
-tags: [interlude, vociran, pre-cataclysm, augustus, marius, cassius, halinorum]
+tags:
+  - interlude
 ---
 
 # Pre-Cataclysm — Vociran Perspective

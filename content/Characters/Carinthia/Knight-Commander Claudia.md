@@ -15,7 +15,7 @@ image: Claudia-Metellus.webp
 
 **Title**: Knight-Commander of the [[Knights Templar]]
 
-**Allegiance**: [[Carinthia]] (Templars, Secular Arm)
+**Allegiance**: [[Heldenheim|Carinthia]] (Templars, Secular Arm)
 
 **Race**: Human
 
@@ -29,7 +29,7 @@ image: Claudia-Metellus.webp
 
 **Attire**: Blue and silver Templar plate with golden inlays
 
-**Home**: [[Heldenheim]], [[Carinthia]]
+**Home**: [[Heldenheim]], [[Heldenheim|Carinthia]]
 
 
 

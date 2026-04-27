@@ -1,6 +1,7 @@
 ---
 character: Frog
-tags: [interlude, frog, argenta, moonlit-revel, qamar, backstory]
+tags:
+  - interlude
 ---
 
 # Argenta's Travels — Part 1

@@ -52,7 +52,7 @@ Initiated into the Earthspeakers, she rejected most rites but remained revered�
 She refuses leadership, but [[The Earthspeakers Circle|the Earthspeakers]] often defers to her anyway.
 ## Current Status
 
-Brynna has grown increasingly agitated in recent months. She has warned of something unrooting beneath [[the Chilmire Bog]]—“a hunger that sings”—and has begun carving runes into trees to “ward the memories.”
+Brynna has grown increasingly agitated in recent months. She has warned of something unrooting beneath [[Chilmire Bog|the Chilmire Bog]] —“a hunger that sings”—and has begun carving runes into trees to “ward the memories.”
 
 She has also taken a strange interest in [[Aspiria’s Chosen]], calling them “the ones we forgot to dream.” She appeared uninvited in one of their chambers and uttered a single phrase before vanishing: “There is a song at the edge of silence. When it finishes, nothing will want to be.”
 

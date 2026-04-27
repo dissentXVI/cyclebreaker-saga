@@ -66,21 +66,11 @@ He excels at leading small-to-medium scale operations and training younger offic
 
 ## Notable Relationships
 
-[[Lord Gerard von Vaillant]] – His father and mentor. Matthias strives to live up to Gerard’s legacy and moral clarity. Though Gerard rarely praises Matthias openly, there is deep mutual respect. Matthias often wonders whether his father views him as a true successor — or merely as a steward of the family name.
+[[Gerard von Vaillant|Lord Gerard von Vaillant]] – His father and mentor. Matthias strives to live up to Gerard’s legacy and moral clarity. Though Gerard rarely praises Matthias openly, there is deep mutual respect. Matthias often wonders whether his father views him as a true successor — or merely as a steward of the family name.
 
 [[Adrien Frost]] – Matthias admires [[Adrien Frost|Adrien]] deeply, perhaps more than he would admit. He views [[Adrien Frost|Adrien]] as the kind of leader he hopes to become. Though unaware of [[Adrien Frost|Adrien]]’s true parentage, Matthias senses a quiet kinship between [[Adrien Frost|Adrien]] and his father that he does not share, which leaves him conflicted.
 
 [[Bernard Snowtree]] – His half-brother - Matthias respects Bernard’s service record and character but keeps their interactions formal.
 
 [[Knight-Commander Claudia]] – A superior officer he holds in cautious esteem. Matthias respects her battlefield skill and strict order, though he finds her hard to read. She reminds him of the side of war he tries not to become.
-
-Secrets
-
-None
-
-aliases:
-	- Matthias
-	- Mattias Vaillant
----
-
 

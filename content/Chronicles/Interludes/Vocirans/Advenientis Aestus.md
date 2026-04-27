@@ -1,6 +1,7 @@
 ---
 character: Other
-tags: [interlude, ignia, serena, vociran, gallus, advenientis-aestus, pre-campaign]
+tags:
+  - interlude
 ---
 
 # Advenientis Aestus

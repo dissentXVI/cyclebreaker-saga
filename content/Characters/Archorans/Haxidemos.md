@@ -1,12 +1,12 @@
 ---
-aliases: null
+aliases:
 draft: true
-image: null
+image: Haxidemos.webp
 tags:
-- minor-character
-- npc
-- archoran
-- incomplete
+  - minor-character
+  - npc
+  - archoran
+  - incomplete
 ---
 
 ![[Haxidemos.webp]]

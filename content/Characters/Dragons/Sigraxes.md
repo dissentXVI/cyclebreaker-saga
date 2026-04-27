@@ -55,6 +55,6 @@ Sigraxes is not yet fully grown, but her venomous breath and swift tail make her
 
 **[[Renai Aymere]]** – The first mortal to ever show her kindness. Renai called her "clever girl" and left food by the lake. Sigraxes listens when Renai speaks, even if she doesn't understand everything.
 
-**Aspiria's Chosen** – She sees them as strange but possibly true to their word. Their promise is a beacon: a way back to the only home she's ever known.
+**[[Aspiria's Chosen]]** – She sees them as strange but possibly true to their word. Their promise is a beacon: a way back to the only home she's ever known.
 
 ## Secrets

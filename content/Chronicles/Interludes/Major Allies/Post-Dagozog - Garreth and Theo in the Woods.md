@@ -1,6 +1,7 @@
 ---
 character: Garreth
-tags: [interlude, garreth, theo, goblins, kyrichos, post-dagozog]
+tags:
+  - interlude
 ---
 
 # Post-Dagozog — Garreth and Theo in the Woods

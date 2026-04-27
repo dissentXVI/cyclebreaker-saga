@@ -1,6 +1,7 @@
 ---
 character: Gothmog
-tags: [interlude, gothmog, ochmaa, backstory, training]
+tags:
+  - interlude
 ---
 
 # Climb

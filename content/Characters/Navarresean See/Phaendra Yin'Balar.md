@@ -30,14 +30,17 @@ Yin'Balar looked exactly like the plaque he wrote about himself would lead you t
 
 ## Personality
 
-Yin'Balar was a true believer — in the empire, in himself, and in the idea that these were the same thing. He was a military emperor of real capability who formed the Navarresean War Council, built [[Taras'Nula]] as the empire's greatest scientific installation, and drove the Second Celestial Campaign to its most aggressive phase. He was also, by all evidence, extraordinarily vain.
+Yin'Balar was a true believer — in the empire, in himself, and in the idea that these were the same thing. He was a military emperor of real capability who formed the Navarresean War Council, but he was also, by all evidence, extraordinarily vain.
 
-The plaque he commissioned in the [[Garden of Asj'Norriah]] is the most revealing document he left behind: written in the third person, stacked with honorifics, and dedicated to a flower associated with poison — apparently chosen as a symbol of what awaited the empire's enemies rather than any reflection on himself. A man more self-aware might have found that ironic.
+The plaque he commissioned in the Garden of Asj'Norriah is the most revealing document he left behind: written in the third person, stacked with honorifics, and dedicated to a flower associated with poison — apparently chosen as a symbol of what awaited the empire's enemies rather than any reflection on himself. A man more self-aware might have found that ironic.
 
 He died as he lived — leading a charge he probably shouldn't have, emboldened by a dwarven feint he mistook for a retreat. The dreadnoughts finished the job.
 
 ## Narrative Relevance
 
-Yin'Balar's reign represents the apex of Navarresean military power and the moment the empire's overreach became irreversible. He built [[Taras'Nula]], which became the site of [[Nottraxes]]'s binding and later of [[Amastacia Lael'Nathor]]'s cloning project. His War Council formalized the military structures that would outlast him.
+Yin'Balar's reign represents the apex of Navarresean military power and the moment the empire's overreach became irreversible. 
 
 His death on the battlefield — avoidable, almost absurd — left a power vacuum that began the empire's long internal fracturing.
+
+> [!dm] DM Only — Not Revealed to Players
+He built [[Taras'Nula]], which became the site of [[Nottraxes]]'s binding and later of [[Amastacia Lael'Nathor]]'s cloning project. His War Council formalized the military structures that would outlast him.

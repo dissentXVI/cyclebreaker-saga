@@ -1,6 +1,7 @@
 ---
 character: Laena
-tags: [interlude, laena, family, letters, monifa, oseye, oman]
+tags:
+  - interlude
 ---
 
 # Letters from Laena — Part 1

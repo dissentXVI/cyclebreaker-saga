@@ -44,7 +44,7 @@ He collects secrets, names, and favors like coins in a noble’s ledger, always 
 
 ## Character History
 
-Born in the lower quarters of [[City-State]], the bastard son of a dockworker and a transient scribe, Alsten clawed his way into the Church through a mix of brilliance and calculation. A patron from [[House Bellefeuille]] secured his seminary education, though Alsten never forgot the cost of charity—or how to repay it in full.
+Born in the lower quarters of [[Heldenheim|Carinthia]], the bastard son of a dockworker and a transient scribe, Alsten clawed his way into the Church through a mix of brilliance and calculation. A patron from [[House Bellefeuille]] secured his seminary education, though Alsten never forgot the cost of charity—or how to repay it in full.
 
 He rose quickly through minor clerical ranks before catching the attention of High Inquisitor [[Dorian Vaudrin]]. Under Vaudrin's tutelage, he shed his humble origins and emerged as one of the Inquisition’s most promising—if controversial—confessors.
 
@@ -68,10 +68,6 @@ His most dangerous weapon remains his tongue, sharpened by study and subtlety.
 
 [[Adrien Frost]] – A symbol of secular interference. Alsten respects his presence, but believes the Templars should answer to the Church more directly.
 
-Secrets
+## Secrets
 
 Alsten once forced a false confession from a frightened villager during his early trials, covering it up when the truth emerged. The man died by fire. Rather than risk his standing, Alsten falsified the records and burned the originals. He rarely dwells on it, but he’s never forgotten the feeling of being untouchable.
-
-aliases:
-	- Alsten
-	- Duvaine

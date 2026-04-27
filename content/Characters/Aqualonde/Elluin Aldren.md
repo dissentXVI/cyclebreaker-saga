@@ -13,7 +13,7 @@ image: Elluin_Aldren.webp
 
 **Title**: None
 
-**Allegiance**: [[Sharl]]
+**Allegiance**: [[Sharl van der Cleev|Sharl]]
 
 **Race**: Elf
 
@@ -64,7 +64,7 @@ N/A
 
 [[Selphie Aldren|Selphie]] and [[Ellisar Aldren|Ellisar]] – He cannot speak to them, but he always steps between them and danger.
 
-[[Sharl]] – Serves him. Fears him. Obeys—but hesitates.
+[[Sharl van der Cleev|Sharl]] – Serves him. Fears him. Obeys—but hesitates.
 ## Secrets
 
 

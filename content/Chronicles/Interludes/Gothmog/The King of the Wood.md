@@ -1,6 +1,7 @@
 ---
 character: Gothmog
-tags: [interlude, gothmog, theo, m'ylaena, shurevaire, fae, backstory]
+tags:
+  - interlude
 ---
 
 # The King of the Wood

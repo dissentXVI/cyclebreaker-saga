@@ -1,6 +1,7 @@
 ---
 character: Jendrick
-tags: [interlude, jendrick, diazana, sylviane, travel, tiefling-rights]
+tags:
+  - interlude
 ---
 
 # Tavern Tales

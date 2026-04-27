@@ -1,6 +1,7 @@
 ---
 character: Laena
-tags: [interlude, laena, tarwakem, sultana, coronation, backstory]
+tags:
+  - interlude
 ---
 
 # Sultana's Coronation

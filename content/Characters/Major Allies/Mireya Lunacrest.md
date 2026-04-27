@@ -65,7 +65,7 @@ Mireya is not trained for war, but her courage runs deep. She stands her ground 
 
 **[[Zeyn Choukri]]** – An unlikely but functional partnership. Zeyn handles the blade and the boots; Mireya handles the people. She finds his pragmatism grounding. He finds her idealism... complicated. But neither would deny the other has earned their place.
 
-**Aspiria's Chosen** – She offered them lodging in exchange for a favor and ended up trusting them more than she expected. They remind her that even ordinary people can do extraordinary things.
+**[[Aspiria's Chosen]]** – She offered them lodging in exchange for a favor and ended up trusting them more than she expected. They remind her that even ordinary people can do extraordinary things.
 
 ## Secrets
 

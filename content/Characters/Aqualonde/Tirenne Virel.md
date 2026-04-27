@@ -14,7 +14,7 @@ image: Tirenne_Virel.webp
 
 **Title**: Mistress of the Trade Winds
 
-**Allegiance**: [[Windriders Guild]] ([[Aqualonde]])
+**Allegiance**: [[The Windriders Guild]] ([[Aqualonde]])
 
 **Race**: Elf
 
@@ -44,7 +44,7 @@ She believes [[Aqualonde]] must engage with the wider world or risk fading into 
 Tirenne also keeps meticulous personal notes and has a remarkable memory for voices and phrases. She has, on occasion, recited treaties verbatim—out of spite.
 ## Character History
 
-Born to river-wardens in the southern wetlands, Tirenne came of age ferrying messages and goods between [[Aqualonde]]’s scattered settlements. She joined [[the Windriders]] as a young adult, specializing in navigation through unpredictable routes—coastal roads, misted deltas, cliffside trails once mapped only by spirit-song.
+Born to river-wardens in the southern wetlands, Tirenne came of age ferrying messages and goods between [[Aqualonde]]’s scattered settlements. She joined [[The Windriders Guild|the Windriders]] as a young adult, specializing in navigation through unpredictable routes—coastal roads, misted deltas, cliffside trails once mapped only by spirit-song.
 
 She rose quickly through the ranks, becoming Mistress of the Trade Winds at just over sixty years of age—a youthful age among elves. Her ability to speak with elemental spirits of wind and storm earned her praise, but it was her command of contract law and negotiation that made her indispensable.
 
@@ -53,7 +53,7 @@ She studied language-encoding under [[Maevienne Narelith]] and later trained bri
 
 Within [[Aqualonde]], she has expressed growing concern about the Emerald Ledger—[[Aqualonde]]’s sacred trade records—which may have been subtly altered. She suspects internal manipulation and is investigating discreetly.
 
-Though she supports [[Maylin Lurel]], she has urged the Seedspeaker to more openly align with [[Neema Karo’kem]]’s proposed alliance—a position that has stirred debate among the guilds.
+Though she supports [[Maylin Lurel]], she has urged the Seedspeaker to more openly align with [[Neema Karo'kem]]’s proposed alliance—a position that has stirred debate among the guilds.
 ## Combat Style
 
 N/A

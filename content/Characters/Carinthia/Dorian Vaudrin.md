@@ -70,6 +70,6 @@ His true strength lies in psychological warfare—most of his enemies are defeat
 
 [[Bernard Snowtree]] – A well-meaning fool. Dorian sees Bernard’s compassion as a liability and would remove him if not for political restraint.
 
-Secrets
+## Secrets
 
 None

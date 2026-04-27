@@ -49,7 +49,7 @@ But Isaacs is not all business. He and [[Corella Marante|Corrella]] share a deep
 
 ## Character History
 
-Isaacs was born into a Tiefling [[Kula]] known for their vibrant music, sharp bargaining, and strict codes of honor. Life among the [[Kula]] taught him many things — how to survive on little, how to read people faster than they could lie, and how to make yourself useful to those with power. But even as a boy, Isaacs chafed at the caravan's limitations. He didn’t just want to survive — he wanted more.
+Isaacs was born into a Tiefling Kula known for their vibrant music, sharp bargaining, and strict codes of honor. Life among the Kula taught him many things — how to survive on little, how to read people faster than they could lie, and how to make yourself useful to those with power. But even as a boy, Isaacs chafed at the caravan's limitations. He didn’t just want to survive — he wanted more.
 
 At seventeen, he slipped away during a trade stop outside the walls of Avosa Tesota. With only a false name and a stolen account book, he bluffed his way into a junior clerkship at the Bannerhall. By the time anyone noticed, he’d made himself indispensable.
 

@@ -49,7 +49,7 @@ Eda Braelyn once traveled with a small adventuring band — a scrappy group of e
 
 Only she came back.
 
-Wounded, half-mad, and with her god silent, Eda stumbled into [[Tarwa'kem]] with no coin and no direction. Reduced to begging, she nearly came to blows with another desperate soul before a stranger — [[Ariesa Lightbringer]] — intervened.
+Wounded, half-mad, and with her god silent, Eda stumbled into [[Tarwa'kem]] with no coin and no direction. Reduced to begging, she nearly came to blows with another desperate soul before a stranger — [[Ariesa Hecate|Ariesa Lightbringer]] — intervened.
 
 It was Ariesa who reminded her what hope felt like. It was [[Laena Zahir]] who gave her a chance — a job in a local medical ward and a reason to try again.
 
@@ -63,7 +63,7 @@ Eda is a divine caster and support specialist, trained in restorative magic and 
 
 ## Notable Relationships
 
-**[[Ariesa Lightbringer]]** – The first kind voice after her fall. Eda clings to this kindness like a thread to sanity.
+**[[Ariesa Hecate|Ariesa Lightbringer]]** – The first kind voice after her fall. Eda clings to this kindness like a thread to sanity.
 
 **Mikel** – Her deceased fiancé. She speaks to him at night in prayer — and listens as if he might answer.
 

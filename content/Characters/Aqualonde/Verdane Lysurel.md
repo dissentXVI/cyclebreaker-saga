@@ -44,7 +44,7 @@ He is known for long silences, for letting others speak themselves into their ow
 To the young, he is archaic. To the wise, he is indispensable.
 ## Character History
 
-Verdane was born during the closing decades of [[the Sixth Radiant Age]], the son of a quiet woodturner and a mid-ranking member of [[the Earthspeakers]]. From an early age, he showed a rare affinity not for the glamour of nature magic, but for its patience. He was often found alone beneath trees, listening, carving, or planting, while others sparred or sang.
+Verdane was born during the closing decades of the Sixth Radiant Age, the son of a quiet woodturner and a mid-ranking member of [[The Earthspeakers Circle|the Earthspeakers]]. From an early age, he showed a rare affinity not for the glamour of nature magic, but for its patience. He was often found alone beneath trees, listening, carving, or planting, while others sparred or sang.
 
 He joined [[The Tree Shapers Guild|the Tree Shapers]] in his forties and rose slowly—not through ambition, but through unwavering dedication. While others mastered techniques, Verdane mastered time. His bonsai creations span entire generations. 
 ## Current Status

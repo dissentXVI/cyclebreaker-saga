@@ -1,6 +1,7 @@
 ---
 character: Ariesa
-tags: [interlude, ariesa, pappy, kula, backstory]
+tags:
+  - interlude
 ---
 
 # Ariesa Leaves — Backstory PoV: Pappy

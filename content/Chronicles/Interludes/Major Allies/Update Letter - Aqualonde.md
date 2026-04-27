@@ -1,6 +1,7 @@
 ---
 character: Mireya
-tags: [interlude, mireya, laconia, letter, party, jendrick, diazana]
+tags:
+  - interlude
 ---
 
 # Update Letter — Aqualonde

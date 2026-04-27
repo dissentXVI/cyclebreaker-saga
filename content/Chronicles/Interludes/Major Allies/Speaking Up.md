@@ -1,6 +1,7 @@
 ---
 character: Garreth
-tags: [interlude, garreth, ariesa, kula, tiefling-elders]
+tags:
+  - interlude
 ---
 
 # Speaking Up

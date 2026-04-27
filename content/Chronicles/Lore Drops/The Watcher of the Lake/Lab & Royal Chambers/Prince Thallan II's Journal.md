@@ -30,7 +30,7 @@ Shamashur leads a project from my mother's waking days, experiments on 'that las
 
 ---
 
-I canceled the Council again today. 'The dwarves cower', they're 'on the verge of rout', their coffers 'flounder with too much gold and not enough steel'. It was a nice day. The [[Watcher of the Lake]] sits up and over rolling fields, greenery and woods for miles and miles. It's disorienting traveling within her halls, of course, unless you keep to the old trails from Asj'Norriah's day, but out here on the throne, it's quite nice to sit, watch Halinor, and pretend. On a clear day I can almost hear my mother's voice in a whisper on the wind.
+I canceled the Council again today. 'The dwarves cower', they're 'on the verge of rout', their coffers 'flounder with too much gold and not enough steel'. It was a nice day. The [[The Cosmic Pillar|Watcher of the Lake]] sits up and over rolling fields, greenery and woods for miles and miles. It's disorienting traveling within her halls, of course, unless you keep to the old trails from Asj'Norriah's day, but out here on the throne, it's quite nice to sit, watch Halinor, and pretend. On a clear day I can almost hear my mother's voice in a whisper on the wind.
 
 ---
 

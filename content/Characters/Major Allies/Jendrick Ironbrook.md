@@ -45,7 +45,7 @@ Mireya became his responsibility, whether she asked for it or not. He's stuck cl
 
 ## Current Status
 
-Jendrick continues to consider the Sailor's Whimsy his home, but he hasn't been behind the bar in weeks. Though he had thrown himself into rebuilding the tavern after [[Dagozog]]'s attack — carpenter by day, quiet sentinel by night — he stepped away when [[Sylviane Arsenault]] announced her intent to investigate the Sticaean Abyss. She wasn't going to wait, and Jendrick knew too well what happened to people who went into dangerous places alone.
+Jendrick continues to consider the Sailor's Whimsy his home, but he hasn't been behind the bar in weeks. Though he had thrown himself into rebuilding the tavern after [[Dagozog, the Galvanic Fury|Dagozog]]'s attack — carpenter by day, quiet sentinel by night — he stepped away when [[Sylviane Arsenault]] announced her intent to investigate the Sticaean Abyss. She wasn't going to wait, and Jendrick knew too well what happened to people who went into dangerous places alone.
 
 He volunteered to accompany her, though it was clear she would have gone without him. Now, with hammer left behind and blade quietly sharpened, he walks the crumbling caverns beside Sylviane, watchful as ever. This time, he doesn't intend to be too late.
 

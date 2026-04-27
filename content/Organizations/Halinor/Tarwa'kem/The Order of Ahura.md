@@ -38,7 +38,9 @@ The Order of Ahura is [[Tarwa'kem]]'s most publicly celebrated institution and o
 
 The Order's unofficial acquisition of [[Navarresean See|Navarresean]] relics through independent contractors is the most active of its current operations. What [[Tali Kouri|Tali]] intends to do with those relics — or what they may reveal — has not yet become clear.
 
-> [!gm] GM Only
+## Secrets
+
+> [!dm] DM Only — Not Revealed to Players
 > The Order has active operations in the [[Sticaean Abyss]] region, covertly acquiring Navarresean relics through independent contractors not subject to the Sultana's restriction. [[Tali Kouri]] is aware of the significance of the site and has chosen not to share what she knows.
 
 ## Related Pages

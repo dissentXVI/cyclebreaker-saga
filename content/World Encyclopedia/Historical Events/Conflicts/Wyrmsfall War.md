@@ -15,5 +15,7 @@ In the generations since, the Wyrmsfall War has ground slowly but relentlessly a
 
 The war shows no sign of ending. Wodr still lives. And within Heldenheim's walls, a heretic named [[Renai Aymere]] whispers that the Church's account of how it began is not the whole truth.
 
-> [!gm] GM Only
+## Secrets
+
+> [!dm] DM Only — Not Revealed to Players
 > The Church's account is a lie. [[Archbishop Renard Louis]] ordered the betrayal — [[Skadraxes]], Wodr's sister, was lured into a trap, killed, and her eyes torn from her skull to fuel Louis's apotheosis as the [[Paragons|Paragon]] [[Arch De Soleil]]. Wodr did not attack without cause. He attacked in grief and fury after witnessing his sister's murder. The four [[High Houses]] descend from men who participated in that betrayal and were rewarded with nobility for their silence. [[Renai Aymere]] is closer to the truth than the Church will ever admit.

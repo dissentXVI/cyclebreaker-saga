@@ -1,6 +1,7 @@
 ---
 character: Frog
-tags: [interlude, frog, quiss, argenta, backstory, sharl, clevers]
+tags:
+  - interlude
 ---
 
 # Quiss de Barghest's Last Day

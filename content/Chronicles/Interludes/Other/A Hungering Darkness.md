@@ -1,6 +1,7 @@
 ---
 character: Other
-tags: [interlude, fae, fauconwood, horror, selphie, mysterious-stranger]
+tags:
+  - interlude
 ---
 
 # A Hungering Darkness

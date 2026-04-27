@@ -15,5 +15,7 @@ Gallus returned to [[Patria Noster]] in triumph, leaving the newly promoted [[Vo
 
 The Siege of the White Sands is celebrated within [[Vociterra]] as a masterwork of imperial strategy. Outside its borders, it is remembered as the day a city that had survived centuries of drought, civil war, and hardship fell in under two weeks to an empire that had never once been invited.
 
-> [!gm] GM Only
+## Secrets
+
+> [!dm] DM Only — Not Revealed to Players
 > The betrayal that opened the capital's gates has never been publicly identified. This thread remains unresolved and may be relevant to D'yadyan characters or factions with long memories.

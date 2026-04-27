@@ -22,7 +22,7 @@ image: Tristan_Halvich.webp
 
 **Attire**: Snowfinch Guard uniform — scale armor beneath a blue cloak, belted with military precision
 
-**Home:** [[Snowfinch Rest]], [[Carinthia]]
+**Home:** [[Snowfinch Rest]]
 
 ## Appearance
 

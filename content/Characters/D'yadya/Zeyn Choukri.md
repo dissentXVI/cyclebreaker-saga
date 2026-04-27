@@ -49,13 +49,13 @@ When he came of age, Zeyn enlisted in the Gilded Legion, driven by a single hope
 
 Instead, he was sidelined. [[Tarik Tazi]], once a fellow soldier and D'yadyan kin, was elevated to General. Zeyn was assigned to border patrol. Then, to silence. Then, to [[Laconia]].
 
-Following the Trembling Foundations and the emergence of the [[Watcher of the Lake]], Laconia ballooned with refugees, scholars, and mercenaries. Zeyn was named Sheriff — a gesture by [[Tarik Tazi|Tarik]] to "keep order." The guards from [[Aqualonde]] and [[Avosa Tesota]] mocked his title.
+Following the Trembling Foundations and the emergence of the [[The Cosmic Pillar|Watcher of the Lake]], Laconia ballooned with refugees, scholars, and mercenaries. Zeyn was named Sheriff — a gesture by [[Tarik Tazi|Tarik]] to "keep order." The guards from [[Aqualonde]] and [[Avosa Tesota]] mocked his title.
 
-When goblins and their summoned Paragon [[Dagozog]] attacked Laconia, Zeyn stood with Aspiria's Chosen in its defense. That act, and his actions since, earned him grudging respect. Now, he trains a militia composed of the displaced, the overlooked, and the determined. He keeps order in Laconia not by the grace of city-states, but by sheer will and a growing belief: if the world won't give D'yadyans a home, they'll carve one out themselves.
+When goblins and their summoned Paragon [[Dagozog, the Galvanic Fury|Dagozog]] attacked Laconia, Zeyn stood with Aspiria's Chosen in its defense. That act, and his actions since, earned him grudging respect. Now, he trains a militia composed of the displaced, the overlooked, and the determined. He keeps order in Laconia not by the grace of city-states, but by sheer will and a growing belief: if the world won't give D'yadyans a home, they'll carve one out themselves.
 
 ## Current Status
 
-In the aftermath of [[Dagozog]]'s attack, [[Laconia]] needed more than a sheriff. [[Mireya Lunacrest]] stepped into the gap — unofficial, unelected, and entirely necessary — and Zeyn found himself working alongside her rather than parallel to her. The arrangement suits him better than he'll admit. She handles what he cannot: the grief, the trust, the fragile social fabric of a community still in shock. He handles what she cannot: the patrols, the weapons, the hard decisions made in the dark.
+In the aftermath of [[Dagozog, the Galvanic Fury|Dagozog]]'s attack, [[Laconia]] needed more than a sheriff. [[Mireya Lunacrest]] stepped into the gap — unofficial, unelected, and entirely necessary — and Zeyn found himself working alongside her rather than parallel to her. The arrangement suits him better than he'll admit. She handles what he cannot: the grief, the trust, the fragile social fabric of a community still in shock. He handles what she cannot: the patrols, the weapons, the hard decisions made in the dark.
 
 He continues building his militia, training fighters from among the displaced and the determined. Every day that passes without another attack is a day he uses to prepare for the next one.
 
@@ -69,7 +69,7 @@ When leading others, he moves like a ghost in the sand — seen only when the tr
 
 **Aspiria's Chosen** – Tentative allies. Zeyn trusts action, not titles — but so far, they've earned his respect.
 
-**[[Mireya Lunacrest]]** – Unofficial Mayor of [[Laconia]], a title the people gave her and she hasn't refused. Zeyn respects her resolve and cannot argue with her results — she held the community together after [[Dagozog]]'s attack in ways no blade could have. He finds her idealism naive and her youth concerning, but he has stopped pretending that makes her wrong. Their working arrangement is simple: she handles the people; he handles the threat. It functions better than either of them expected.
+**[[Mireya Lunacrest]]** – Unofficial Mayor of [[Laconia]], a title the people gave her and she hasn't refused. Zeyn respects her resolve and cannot argue with her results — she held the community together after [[Dagozog, the Galvanic Fury|Dagozog]]'s attack in ways no blade could have. He finds her idealism naive and her youth concerning, but he has stopped pretending that makes her wrong. Their working arrangement is simple: she handles the people; he handles the threat. It functions better than either of them expected.
 
 **[[Tarik Tazi]]** – Once a role model and fellow D'yadyan soldier. Now a symbol of surrender and political compromise. Zeyn's resentment runs deep, though he keeps it private.
 

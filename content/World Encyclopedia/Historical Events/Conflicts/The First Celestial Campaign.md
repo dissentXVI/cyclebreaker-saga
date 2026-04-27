@@ -15,5 +15,7 @@ By the campaign's end, only Krisnarax had been killed outright. [[Skadraxes]] an
 
 The campaign was celebrated within the empire as the fulfillment of the Holy Mission. Dissenting voices circulated quietly, questioning whether the dragons had ever struck first and what it meant that the empire's greatest triumph required such a cost. The Inquest ensured these voices did not circulate far.
 
-> [!gm] GM Only
+## Secrets
+
+> [!dm] DM Only — Not Revealed to Players
 > The grief [[Krisnarax]]'s death inflicted on his sister [[Nottraxes]] would later be exploited by an [[The Archorans|Archoran]], whose manipulation of her mourning produced consequences the empire neither anticipated nor fully understood until it was too late.

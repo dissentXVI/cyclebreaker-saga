@@ -17,5 +17,7 @@ Among the dead was [[Megaera cen Magellus]], Cassius's sister and [[Vociran Mili
 
 The battle left no winners. Cassius returned with a shattered force, a disgraced name, and a grief he could not contain. [[Vociterra]] quietly disavowed the incursion. [[Tarwa'kem]] was left without its ruler at a moment of vulnerability. And Cassius, in the months that followed, began to unravel entirely — a descent that would eventually set in motion the events of [[The Trembling Foundations]].
 
-> [!gm] GM Only
+## Secrets
+
+> [!dm] DM Only — Not Revealed to Players
 > The assassination of Sultan Shakir Karo'kem was not a Vociran operation. The true culprit is considerably closer to home. Cassius's grief and madness in the aftermath made him uniquely vulnerable to [[Kyrichos]]'s approach, who exploited both to direct him toward [[Sticaea Lake]].

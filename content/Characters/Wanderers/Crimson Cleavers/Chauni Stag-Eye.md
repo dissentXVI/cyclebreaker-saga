@@ -6,10 +6,10 @@ tags:
   - crimson-cleavers
   - deceased
   - npc
-image: Chauni_Stag-Eye.webp
+image: Chauni_Stag_Eyes.webp
 ---
 
-![[Chauni_Stag-Eye.webp]]
+![[Chauni_Stag_Eyes.webp]]
 
 > "You don't see what I see. You only see what you hope is there."
 

@@ -71,7 +71,7 @@ She avoids direct confrontation whenever possible, preferring sabotage, misdirec
 
 **Sultana [[Neema Karo'kem]]** – Someone she expected to distrust her. The Sultana's willingness to listen gave Valeria hope — and a reason to stay.
 
-**Aspiria's Chosen** – The first people to offer her trust instead of shackles. She hasn't said it aloud, but she would follow them anywhere.
+**[[Aspiria's Chosen]]** – The first people to offer her trust instead of shackles. She hasn't said it aloud, but she would follow them anywhere.
 
 ## Secrets
 

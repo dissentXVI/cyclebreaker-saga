@@ -1,6 +1,7 @@
 ---
 character: Other
-tags: [interlude, mireya, m'ylaena, laconia, aspiria, goblins, after-hours]
+tags:
+  - interlude
 ---
 
 # After Hours

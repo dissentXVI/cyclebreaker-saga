@@ -23,7 +23,7 @@ image: Jorren_Halvich.webp
 
 **Attire**: Plain farmhand clothing — heavy wool sweater, worn scarf; nothing that marks him as anything other than what he claims to be
 
-**Home:** [[Snowfinch Rest]] / Marveux Farms, [[Carinthia]]
+**Home:** [[Snowfinch Rest]] / Marveux Farms
 
 ## Appearance
 

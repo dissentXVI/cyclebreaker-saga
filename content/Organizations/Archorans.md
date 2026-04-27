@@ -39,8 +39,9 @@ The Archorans have taken notice of the Chosen. Whether that attention is predato
 - **Events:** [[The Trembling Foundations]], [[The Battle at Sticaea Lake]], [[The Tempest of Madness]], The Summonings of [[Dagozog, the Galvanic Fury|Dagozog]] and [[Thessakor, the Rot that Hungers|Thessakor]]
 - **Locations:** Unknown
 
-> [!gm] GM Only
+## Secrets
+
+> [!dm] DM Only — Not Revealed to Players
 > The Archorans are surviving [[Predecessors]] — beings from the age before the world was sundered. Their collective purpose is the restoration of the unsundered world, though they disagree profoundly on method. [[Kyrichos]] believes the current world must be ended to force a true restoration and acts as the group's most dangerous operative, seeding Paragon summonings and manipulating broken individuals toward catastrophic ends — including teaching goblin tribes how to summon [[Dagozog, the Galvanic Fury|Dagozog]] and instructing the lizardfolk of the [[Chilmire Bog]] in the rites for [[Thessakor, the Rot that Hungers|Thessakor]]. [[Allythoia]] engineers collapse through subtler means — identifying desires and offering them in their most corrosive form. [[Psyronos]] is also among their number, though his identity as [[Meonus sep Magnus]] and founding architect of [[Vociterra]] is not yet known to the players.
 >
 > [[Diatitos]] is the most enigmatic — his title, "Emissary of Divine Purpose," suggests a role distinct from the others, possibly one of observation or arbitration rather than direct action.
->

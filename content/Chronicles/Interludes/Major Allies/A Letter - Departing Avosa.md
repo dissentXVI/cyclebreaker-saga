@@ -1,6 +1,8 @@
 ---
 character: Theo
-tags: [interlude, theo, gothmog, letter, avosa, shurevaire]
+tags:
+  - interlude
+  - shurevaire
 ---
 
 # A Letter — Departing Avosa

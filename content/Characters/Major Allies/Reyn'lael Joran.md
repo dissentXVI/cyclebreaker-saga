@@ -30,7 +30,7 @@ image: Reynlael-Joran_v3.webp
 
 **Home**: Unknown (formerly [[Shurevaire]])
 
-**Status**: Presumed lost — merged with the [[Watcher of the Lake]]
+**Status**: Presumed lost — merged with the [[The Cosmic Pillar|Watcher of the Lake]]
 
 ## Appearance
 
@@ -40,11 +40,11 @@ He wore a ranger's green — not by trade, but for practical travel — with lea
 
 ## Personality
 
-Reyn was a romantic at heart — enchanted by stories, shaped by epics, and desperate to live one of his own. He believed in heroism, legacy, and the idea that knowledge could not only unlock the past but guide the future. That belief made him earnest, overeager, and sometimes naïve. But beneath the idealism was an intense emotional core — loyal to his friends, burdened by loss, and terrified that his destiny would prove more curse than gift. After entering the [[Watcher of the Lake|Watcher]], his demeanor changed. He smiled less. Asked more. And when the time came to act, he did so with clarity.
+Reyn was a romantic at heart — enchanted by stories, shaped by epics, and desperate to live one of his own. He believed in heroism, legacy, and the idea that knowledge could not only unlock the past but guide the future. That belief made him earnest, overeager, and sometimes naïve. But beneath the idealism was an intense emotional core — loyal to his friends, burdened by loss, and terrified that his destiny would prove more curse than gift. After entering the [[The Cosmic Pillar|Watcher]], his demeanor changed. He smiled less. Asked more. And when the time came to act, he did so with clarity.
 
 ## Character History
 
-Reyn'lael Joran was born into the fading bloodline of Lael'Nathor, the once-great rulers of the [[Navarresean Empire]]. His village — a quiet remnant of that lineage — was destroyed while he was still a child. Orphaned and alone, he was taken in by scholars in [[Shurevaire]], where he found refuge in tomes, ruins, and the stories of ancient kings and heroic deeds. His enthusiasm for lost history eventually caught the attention of [[Layla Basura]], who secured him a place on a secret expedition to the ruins of the [[Watcher of the Lake]].
+Reyn'lael Joran was born into the fading bloodline of Lael'Nathor, the once-great rulers of the [[Navarresean See|Navarresean Empire]]. His village — a quiet remnant of that lineage — was destroyed while he was still a child. Orphaned and alone, he was taken in by scholars in [[Shurevaire]], where he found refuge in tomes, ruins, and the stories of ancient kings and heroic deeds. His enthusiasm for lost history eventually caught the attention of [[Layla Basura]], who secured him a place on a secret expedition to the ruins of the [[The Cosmic Pillar|Watcher of the Lake]].
 
 Accompanied by [[Layla Basura]], the cantankerous [[Erros Opars|Professor Erros Opars]], and Aspiria's Chosen, Reyn became the key to unlocking the tower's sealed gates — something no one before had achieved. It was his bloodline that the Watcher recognized. But what awaited him inside was not the legacy he had hoped to reclaim. It was the truth — and betrayal.
 
@@ -56,7 +56,7 @@ Aspiria's Chosen fought to protect Reyn, escorting his failing body to the heart
 
 ## Current Status
 
-Reyn is presumed lost along with the [[Watcher of the Lake]], which vanished from the dried lake bed where it once stood. Only faint pneuma traces remained — and the breathstone beneath it, which occasionally pulses in strange patterns.
+Reyn is presumed lost along with the [[The Cosmic Pillar|Watcher of the Lake]], which vanished from the dried lake bed where it once stood. Only faint pneuma traces remained — and the breathstone beneath it, which occasionally pulses in strange patterns.
 
 Some believed he died. Others whisper he became the tower itself — an echo-bound guardian tethered to a relic too powerful to exist in the world freely. What is certain is this: he sacrificed everything to save the others.
 
@@ -70,7 +70,7 @@ Reyn fought like a rogue with a scholar's instinct — quick, clever, and never 
 
 **[[Erros Opars]]** – A figure of both intimidation and fascination. Reyn admired his mind until the moment he saw what it could destroy.
 
-**Aspiria's Chosen** – They were the first real heroes Reyn met — and the last ones he saved. He trusted them when everything else collapsed.
+**[[Aspiria's Chosen]]** – They were the first real heroes Reyn met — and the last ones he saved. He trusted them when everything else collapsed.
 
 ## Secrets
 

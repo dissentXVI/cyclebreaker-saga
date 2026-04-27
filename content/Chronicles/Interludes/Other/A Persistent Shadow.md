@@ -1,6 +1,7 @@
 ---
 character: Other
-tags: [interlude, aag-gax, kyrichos, goblins, paragons, villain-pov]
+tags:
+  - interlude
 ---
 
 # A Persistent Shadow

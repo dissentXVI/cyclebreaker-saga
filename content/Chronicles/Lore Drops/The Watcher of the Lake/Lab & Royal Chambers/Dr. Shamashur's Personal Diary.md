@@ -8,7 +8,7 @@ source: Found in the Lab & Royal Chambers of the Watcher of the Lake
 
 # Dr. Shamashur's Personal Diary
 
-*A personal diary recovered from [[Thalaniel Shamashur]]'s laboratory in the [[Watcher of the Lake]]. The handwriting is fluid and self-assured throughout — the writing of a man who has never once doubted himself. The final entry is longer than the rest.*
+*A personal diary recovered from [[Thalaniel Shamashur]]'s laboratory in the [[The Cosmic Pillar|Watcher of the Lake]]. The handwriting is fluid and self-assured throughout — the writing of a man who has never once doubted himself. The final entry is longer than the rest.*
 
 ---
 

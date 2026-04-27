@@ -46,12 +46,12 @@ He would never admit it, but he fears irrelevance more than death.
 
 Renzo was born on the outskirts of [[Aqualonde]] to a Carinthian exile and an Aqualondian musician. His early life was split between elven salons and tavern stages, learning diplomacy and defiance in equal measure. He joined [[The Starcaller Salon|the Starcallers]], a salon of poets, playwrights, and astral loremasters, rising quickly through wit, subversion, and sheer audacity.
 
-His breakthrough came with [[The Ashen Concord]], a satirical opera that examined the Navarresean fall and [[Vociran]] imperialism in one three-act masterpiece. It was banned in three city-states, and made him a legend in [[Aqualonde]].
+His breakthrough came with The Ashen Concord, a satirical opera that examined the Navarresean fall and Vociran imperialism in one three-act masterpiece. It was banned in three city-states, and made him a legend in [[Aqualonde]].
 
 Now, Renzo speaks not only for [[The Starcaller Salon|the Starcallers]] but often for [[Aqualonde]] itself—especially when a softer tongue is needed than [[Jannalor Rokas|Jannalor]]’s sword or [[Maevienne Narelith|Maevienne]]’s glare.
 ## Current Status
 
-Renzo is currently preparing [[The Twelvefold Reprise]], a masked performance meant to dissect the divine apathy through mortal eyes. 
+Renzo is currently preparing The Twelvefold Reprise, a masked performance meant to dissect the divine apathy through mortal eyes. 
 
 He has also taken interest in [[Aspiria’s Chosen]], particularly their ability to resist the fraying and conquer gods. He sees them as living myths—and possible muses.
 ## Combat Style

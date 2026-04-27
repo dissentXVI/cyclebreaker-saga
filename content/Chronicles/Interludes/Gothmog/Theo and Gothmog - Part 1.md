@@ -1,6 +1,7 @@
 ---
 character: Gothmog
-tags: [interlude, gothmog, theo, ochmaa, shurevaire, backstory]
+tags:
+  - interlude
 ---
 
 # Theo and Gothmog — Part 1

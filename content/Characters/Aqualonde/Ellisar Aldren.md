@@ -13,7 +13,7 @@ image: Ellisar_Aldren.webp
 
 **Title**: None
 
-**Allegiance**: [[Sharl]]
+**Allegiance**: [[Sharl van der Cleev|Sharl]]
 
 **Race**: Elf
 
@@ -60,7 +60,7 @@ N/A
 
 [[Elluin Aldren]] – Looks to his father with unquestioning trust—even now.
 
-[[Sharl]] – Ellisar believes Sharl saved them. His loyalty is childlike, not coerced.
+[[Sharl van der Cleev|Sharl]] – Ellisar believes Sharl saved them. His loyalty is childlike, not coerced.
 ## Secrets
 
 

@@ -47,7 +47,7 @@ He distrusts sentimentality but honors it in others.
 
 Jannalor was born under a red moon—considered a bad omen by the old druids. As a child, he showed little interest in song or ritual, but displayed a deep connection to stone, fire, and weight. He apprenticed at [[The Gloam Smithy]] in his youth and never left, eventually claiming the title of Grand Forgewright, the first warrior-smith in centuries to do so.
 
-He reforged the broken [[Brambleblades]]—[[Aqualonde]]’s defender corps—and devised the Breathfold armor pattern used by [[The Moonblade Forge|the Moonblades]] today. His focus on preparation, training, and infrastructure saved [[Aqualonde]] during [[the vineblight plague]], when his defensive wards kept the Elder Tree from collapse.
+He reforged the broken [[The Brambleblades|Brambleblades]]—[[Aqualonde]]’s defender corps—and devised the Breathfold armor pattern used by [[The Moonblade Forge|the Moonblades]] today. His focus on preparation, training, and infrastructure saved [[Aqualonde]] during the vineblight plague, when his defensive wards kept the Elder Tree from collapse.
 
 He has resisted all calls to run for higher office, claiming: “A sword does not govern. It protects the hand that does.”
 ## Current Status

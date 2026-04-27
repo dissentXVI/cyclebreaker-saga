@@ -5,6 +5,8 @@ tags:
   - landmark
   - halinor
   - navarresean-see
+  - gm-only
+draft: true
 ---
 
 **Location:** Unknown — Taras'Nula has not been relocated since the collapse of the [[Navarresean See]]. Its last confirmed position was somewhere within former Navarresean territory in central [[Halinor]], but two thousand years of overgrowth, seismic activity, and deliberate erasure from surviving records have obscured its exact coordinates.

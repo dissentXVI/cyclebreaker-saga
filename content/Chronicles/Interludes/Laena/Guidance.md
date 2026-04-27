@@ -1,6 +1,7 @@
 ---
 character: Laena
-tags: [interlude, laena, tytos, aspiria, tarwakem, prayer]
+tags:
+  - interlude
 ---
 
 # Guidance

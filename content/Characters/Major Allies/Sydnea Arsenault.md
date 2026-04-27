@@ -44,7 +44,7 @@ Having been sheltered most of his life within Shurevaire's halls, Sydnea is stil
 
 As the grandson of Archmage Velethoui Arsenault, Sydnea was raised in one of Shurevaire's most revered lineages. From a young age, he was groomed for scholarship, diplomacy, and legacy. But when Velethoui vanished during the emergence of [[Krisnarax]], and the University began to bury uncomfortable truths, Sydnea started to question the story he'd inherited.
 
-Alongside his twin sister [[Sylviane Arsenault]], he chose to leave the safety of [[Shurevaire]] to learn the truth of their grandfather's final expedition — and the nature of the forces that took him. Their journey brought them to [[Laconia]], where they crossed paths with Aspiria's Chosen, tied to the [[Watcher of the Lake]], Duisaratte, and the deepening mystery of Halinor.
+Alongside his twin sister [[Sylviane Arsenault]], he chose to leave the safety of [[Shurevaire]] to learn the truth of their grandfather's final expedition — and the nature of the forces that took him. Their journey brought them to [[Laconia]], where they crossed paths with Aspiria's Chosen, tied to the [[The Cosmic Pillar|Watcher of the Lake]], Duisaratte, and the deepening mystery of Halinor.
 
 Though still learning the ropes of fieldwork, Sydnea brings with him a vast memory for cataclysmic history, pneumeric theory, and current events. He is no prodigy — but he is precise, committed, and painfully aware of the stakes.
 
@@ -52,7 +52,7 @@ Though still learning the ropes of fieldwork, Sydnea brings with him a vast memo
 
 Sydnea currently travels with Aspiria's Chosen, observing their actions and offering insight when needed. He is not a frontline presence, but his knowledge of Navarresean structure, Shurevarian theory, and academic precedent make him a valuable advisor.
 
-He keeps detailed journals and correspondence with his sister, constantly revising his understanding of what [[Velethoui]] intended — and what he may have died for.
+He keeps detailed journals and correspondence with his sister, constantly revising his understanding of what [[Velethoui Arsenault|Velethoui]] intended — and what he may have died for.
 
 ## Combat Style
 

@@ -1,6 +1,7 @@
 ---
 character: Mireya
-tags: [interlude, mireya, zeyn, laconia, d'yadya, sheriff]
+tags:
+  - interlude
 ---
 
 # Packages and Politics

@@ -1,6 +1,7 @@
 ---
 character: Frog
-tags: [interlude, frog, argenta, jewel, backstory, moonlit-revel]
+tags:
+  - interlude
 ---
 
 # A Frog is Born

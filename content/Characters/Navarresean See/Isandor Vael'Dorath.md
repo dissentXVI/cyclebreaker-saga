@@ -9,9 +9,6 @@ tags:
   - historical-figure
 image: Shade_of_VaelDorath.webp
 ---
-
-![[Shade_of_VaelDorath.webp]]
-
 **Race**: True Elf (Navarresean)
 
 **Gender**: Male
@@ -36,17 +33,15 @@ In life, he was likely not so different — minus the fire. White hair worn long
 
 A soldier's soldier elevated to emperor by his own battlefield victories. Vael'Dorath was not a philosopher or a diplomat — he was a general who understood the world in terms of enemies to be defeated and territories to be held. He expanded the empire eastward into dwarven lands without hesitation, and when the campaign proved more costly than expected, his answer was not restraint but escalation.
 
-The commission of the [[Infernal Hybridization Initiative]] is his most lasting and damning legacy. He framed it as a wartime necessity. It was a choice, made by a man who had never found a problem that more force couldn't solve.
-
 He is remembered within Navarresean historiography as a hero: Wyrmslayer, first of the Holinesses, the emperor who concluded the [[The First Celestial Campaign|First Celestial Campaign]] in glory.
 
 ## Narrative Relevance
 
-Vael'Dorath's reign set in motion consequences that outlasted the empire itself. The [[Infernal Hybridization Initiative]] he commissioned produced results whose full scope has never been publicly acknowledged — its legacy felt across [[Halinor]] to the present day.
-
 His shade was encountered by [[Aspiria's Chosen]] within the Tower — a remnant of the empire's most aggressive era, still standing guard over something it no longer had any right to protect.
 
-> [!gm] GM Only
+## Secrets
+
+> [!dm] DM Only — Not Revealed to Players
 > Vael'Dorath is the origin of the [[Damned]] — the tiefling people that [[Alaric Vyrne]]'s [[Infernal Hybridization Initiative]] produced under his commission. Every tiefling in Aspiria traces their existence, however distantly, to the decision he made to solve a labor shortage with a manufactured people.
 >
 > He also oversaw the period in which [[Nottraxes]] was deceived by an [[The Archorans|Archoran]] into summoning a shade of her slain brother [[Krisnarax]] — an event that Vael'Dorath's empire subsequently exploited to power [[the Cosmic Pillar]].

@@ -47,7 +47,7 @@ Yenden hails from a long line of Shurevarian scholars and archivists, but never 
 
 Among his closest colleagues is [[Diazana Trubough]], with whom he has cultivated a respectful, sometimes challenging, partnership. Their teaching styles clash as often as they align, but their mutual respect runs deep. Together, they foster open forums, shared research initiatives, and student-driven field projects.
 
-Yenden relocated to [[Laconia]] after the emergence of the [[Watcher of the Lake]], accepting a position as Registrar for Archaeological Expeditions. There, he balances administration, teaching, and field supervision — and does his best to keep eccentric colleagues and rogue adventurers from blowing up half the continent.
+Yenden relocated to [[Laconia]] after the emergence of the [[The Cosmic Pillar|Watcher of the Lake]], accepting a position as Registrar for Archaeological Expeditions. There, he balances administration, teaching, and field supervision — and does his best to keep eccentric colleagues and rogue adventurers from blowing up half the continent.
 
 ## Current Status
 

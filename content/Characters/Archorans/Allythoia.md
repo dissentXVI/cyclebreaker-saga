@@ -5,7 +5,7 @@ tags:
   - minor-character
   - npc
   - archoran
-image: Allythoia_v3.webp
+image: Allythoia_v4.webp
 ---
 
 ![[Allythoia_v4.webp]]

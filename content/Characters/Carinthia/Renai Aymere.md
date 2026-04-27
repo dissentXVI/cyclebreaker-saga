@@ -72,6 +72,6 @@ Her rituals often involve invocation of Saint Iseult’s name and draconic praye
 
 [[The Icehearts]] – Her loyal cult. They see her as a miracle returned — a living saint. Most are former soldiers, refugees, and those broken by war. With Renai, they find not just purpose, but peace.
 
-Secrets
+## Secrets
 
 Renai believes herself to be the reincarnation of the saint, and her entire worldview is shaped by this conviction. She claims to remember Iseult’s thoughts, feelings, and dreams — and holds Alophia’s Church accountable for silencing her voice.

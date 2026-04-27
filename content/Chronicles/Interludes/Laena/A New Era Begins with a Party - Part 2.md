@@ -1,6 +1,7 @@
 ---
 character: Laena
-tags: [interlude, laena, tarwakem, coronation, vociran, intrigue, oman]
+tags:
+  - interlude
 ---
 
 # A New Era Begins with a Party — Part 2
