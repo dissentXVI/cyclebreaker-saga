@@ -10,11 +10,12 @@ tags:
 ---
 
 >"Beauty is our language; pattern is our policy."
+
 ## Overview
 
-**Founders:**  The First Loom Circle—ancestral weavers who formalized [[Aqualonde]]’s civic colors and ritual patterns in the late [[Fourth Radiant Age]]
-**Primary Location:**  [[The Loomhall]] ([[Riverwalk]], beside [[Lightreach Falls]])
-**Current Leader(s):**  [[Maevienne Narelith]] – Grand Artisan of the Loomhall
+**Founders:** The First Loom Circle—ancestral weavers who formalized [[Aqualonde]]'s civic colors and ritual patterns in the late Fourth Radiant Age
+**Primary Location:** [[The Loomhall]] ([[Riverwalk]], beside [[Lightreach Falls]])
+**Current Leader(s):** [[Maevienne Narelith]] – Grand Artisan of the Loomhall
 
 ## Structure and Ranks
 
@@ -27,14 +28,14 @@ tags:
 
 ## History
 
-The Sunweavers emerged when [[Aqualonde]]’s founders sought a shared visual language to replace crowns and crests. The First Loom Circle codified civic palettes, ritual hems, and oath-sashes so that garments could communicate station and intent without words. In the generations since, the guild evolved from artisans to cultural stewards, supplying attire for councils, treaties, funerals, and festivals. The modern [[Loomhall]]—established and elevated under Maevienne Narelith—unified scattered ateliers and restored rigorous standards after the upheavals of [[The Trembling Foundations]]. Their hallmark textile, [[Mithrilweave]], is prized across [[Halinor]] for being exceptionally strong yet remarkably lightweight, making it the favored base cloth for ceremonial regalia and durable uniforms.
+The Sunweavers emerged when [[Aqualonde]]'s founders sought a shared visual language to replace crowns and crests. The First Loom Circle codified civic palettes, ritual hems, and oath-sashes so that garments could communicate station and intent without words. In the generations since, the guild evolved from artisans to cultural stewards, supplying attire for councils, treaties, funerals, and festivals. The modern [[The Loomhall|Loomhall]]—established and elevated under Maevienne Narelith—unified scattered ateliers and restored rigorous standards after the upheavals of [[The Trembling Foundations]]. Their hallmark textile, [[Mithrilweave]], is prized across [[Halinor]] for being exceptionally strong yet remarkably lightweight, making it the favored base cloth for ceremonial regalia and durable uniforms.
 
 ## Narrative Relevance
 
-With Aqualonde debating deeper foreign ties, the Sunweavers’ control of symbols—and who wears them—quietly shapes consensus. Maevienne is also resisting pressure to “modernize” guildcraft with outside methods. New civic commissions for [[the Council]] and [[Maylin Lurel|Seedspeaker]] risk becoming battlegrounds of meaning: a hem, a hue, a stitch order—each a public stance disguised as finery.
+With Aqualonde debating deeper foreign ties, the Sunweavers' control of symbols—and who wears them—quietly shapes consensus. Maevienne is also resisting pressure to "modernize" guildcraft with outside methods. New civic commissions for [[The Council of Guilds|the Council]] and [[Maylin Lurel|Seedspeaker]] risk becoming battlegrounds of meaning: a hem, a hue, a stitch order—each a public stance disguised as finery.
 
 ## Related Pages
 
 - **Members:** [[Maevienne Narelith]]
-- **Events:** [[Trembling Foundations]] aftermath
+- **Events:** [[The Trembling Foundations]] aftermath
 - **Locations:** [[The Loomhall]]; [[Riverwalk]]

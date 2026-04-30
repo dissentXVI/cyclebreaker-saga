@@ -51,7 +51,7 @@ During the Fourth Radiant Age, in the time of peace following the early dragon-e
 
 But it was a trap. The [[The Dawnbound|Dawnbound]] — elite knights of [[Carinthia]] — fell upon her as she landed. [[Archbishop Renard Louis]] himself struck the final blow, gouging out her luminous eyes to empower a divine relic. Through divine prayer, these eyes were used to transform him into [[Louis'roi Arch de Soleil]], the so-called "Panoptic Will of God."
 
-Skadraxes's death shattered the fragile peace. Enraged beyond reason, [[Wodirethrax|Wodr]] declared war upon [[Carinthia]] and all elvenkind, launching what would become the [[Wyrmsfall War]].
+Skadraxes's death shattered the fragile peace. Enraged beyond reason, [[Wodirethrax|Wodr]] declared war upon [[Heldenheim|Carinthia]] and all elvenkind, launching what would become the [[Wyrmsfall War]].
 
 ## Legacy
 

@@ -47,7 +47,7 @@ Nottraxes was one of the most mystical of [[Ymirethor]]'s children, revered in t
 
 When [[Krisnarax]] flew north to defend their kin against the rising [[Navarresean Empire]], she did not stop him — nor did she foresee the price. The empire, having unearthed and reverse-engineered the remains of Omnistrix, a dormant Telothian hunter, used its technology to slay him.
 
-Overcome with grief, Nottraxes was approached by an [[The Archorans|Archoran]] who promised a way to bring [[Krisnarax]] back. She agreed. The ritual succeeded — but what returned was not her brother, but a shade, a hollow mockery of what he had been. This false [[Krisnarax]] was twisted, bound, and ultimately used to power the [[Watcher of the Lake|Cosmic Pillar]] — a structure of immense arcane significance.
+Overcome with grief, Nottraxes was approached by an [[The Archorans|Archoran]] who promised a way to bring [[Krisnarax]] back. She agreed. The ritual succeeded — but what returned was not her brother, but a shade, a hollow mockery of what he had been. This false [[Krisnarax]] was twisted, bound, and ultimately used to power [[The Cosmic Pillar|the Cosmic Pillar]] — a structure of immense arcane significance.
 
 Wracked by shame and horror at what she had unleashed, Nottraxes gave up her freedom. She flew to the empire's doorstep and allowed herself to be taken. Bound in the heart of [[Taras'Nula]], she was repurposed into a living source of energy and insight, her body tethered and her dreams mined.
 
