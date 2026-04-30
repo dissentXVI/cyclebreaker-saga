@@ -4,5 +4,5 @@ tags:
   - lore-drop
 draft:
 ---
-![[Page-2.webp]]
+![[Artwork/Lore Drops/Petra Orphanage/Page-1.webp]]
 *A page found in the ruins of a Petran Orphanage*
