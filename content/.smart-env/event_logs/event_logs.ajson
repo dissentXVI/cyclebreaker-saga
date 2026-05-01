@@ -30,3 +30,6 @@
 "event_logs:sources:import_completed": {"key":"sources:import_completed","ct":59,"first_at":1772418429764,"last_at":1777664439711,"class_name":"EventLog"},
 "event_logs:blocks:cleaned": {"key":"blocks:cleaned","ct":58,"first_at":1772418429776,"last_at":1777664439729,"class_name":"EventLog"},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":43,"first_at":1775069156459,"last_at":1777664442984,"class_name":"EventLog"},
+"event_logs:sources:modified": {"key":"sources:modified","ct":13117,"first_at":1772594321507,"last_at":1777665425967,"class_name":"EventLog","event_sources":{"obsidian:workspace.editor-change":9696,"obsidian:vault.modify":3421}},
+"event_logs:sources:modified": {"key":"sources:modified","ct":13119,"first_at":1772594321507,"last_at":1777665428368,"class_name":"EventLog","event_sources":{"obsidian:workspace.editor-change":9697,"obsidian:vault.modify":3422}},
+"event_logs:sources:modified": {"key":"sources:modified","ct":13120,"first_at":1772594321507,"last_at":1777665430383,"class_name":"EventLog","event_sources":{"obsidian:workspace.editor-change":9697,"obsidian:vault.modify":3423}},
