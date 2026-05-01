@@ -5,6 +5,7 @@ tags:
   - avosa
   - organization
   - gm-only
+draft: true
 ---
 
 >"Information is a tide. We decide where it flows."
