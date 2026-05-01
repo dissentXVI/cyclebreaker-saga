@@ -13,9 +13,9 @@ tags:
 
 ## Overview
 
-**Founders:** Formalized by [[Aqualonde]]'s core guilds in the late Fourth Radiant Age, shaped by Carlotte Cordray's salon tradition and the early Loom and Forge circles.
-**Primary Location:** [[Eirune’s Gap]], the open-canopy council ring in [[Aqualonde]]
-**Current Leader(s):** No permanent head; sessions are convened by a rotating **Convener of the Gap**. (Currently: [[Maylin Lurel]], by consent of the seats.)
+**Founders:** Formalized by [[Aqualonde]]'s core guilds in the late Fourth Radiant Age, shaped by Carlotte Cordray's salon tradition and the early Loom and Forge circles.  
+**Primary Location:** [[Eirune’s Gap]], the open-canopy council ring in [[Aqualonde]]  
+**Current Leader(s):** No permanent head; sessions are convened by a rotating **Convener of the Gap**. (Currently: [[Maylin Lurel]], by consent of the seats.)  
 
 ## Structure and Ranks
 

@@ -12,9 +12,9 @@ tags:
 
 ## Overview
 
-**Founders:** A coalition of master arborists, druidic artisans, and structural weavers in early Fifth Radiant Age Aqualonde.
-**Primary Location:** The Boughspire, a living tower shaped from a single colossal tree over centuries.
-**Current Leader(s):** [[Verdane Lysurel]] - Green Hand of the Tree Shapers
+**Founders:** A coalition of master arborists, druidic artisans, and structural weavers in early Fifth Radiant Age Aqualonde.  
+**Primary Location:** The Boughspire, a living tower shaped from a single colossal tree over centuries.  
+**Current Leader(s):** [[Verdane Lysurel]] - Green Hand of the Tree Shapers  
 
 ## Structure and Ranks
 

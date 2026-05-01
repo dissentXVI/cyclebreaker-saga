@@ -10,9 +10,9 @@ tags:
 
 ## Overview
 
-**Founders:** Early intelligence agents appointed under the First Fleet Accord
-**Primary Location:** Decentralized; safehouses throughout [[Gilded Bay]] and [[Crescent Port]]
-**Current Leader(s):** The Netmaster (identity concealed); multiple cell leaders known as Weavers
+**Founders:** Early intelligence agents appointed under the First Fleet Accord  
+**Primary Location:** Decentralized; safehouses throughout [[Gilded Bay]] and [[Crescent Port]]  
+**Current Leader(s):** The Netmaster (identity concealed); multiple cell leaders known as Weavers  
 
 The Red Net is [[Avosa Tesota]]'s unofficial intelligence and smuggling network — a web of informants, couriers, dockworkers, merchants, and sea-captains who trade not only goods, but secrets.
 

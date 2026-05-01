@@ -9,10 +9,8 @@ tags:
 
 ## Overview
 
-**Founders:** Early city wardens of [[Aqualonde]]; reformed and professionalized under [[Jannalor Rokas]] after the vineblight crisis
-
-**Primary Location:** [[The Thornward]] (training grounds and barracks); liaison armory at [[The Gloam Smithy]]
-
+**Founders:** Early city wardens of [[Aqualonde]]; reformed and professionalized under [[Jannalor Rokas]] after the vineblight crisis  
+**Primary Location:** [[The Thornward]] (training grounds and barracks); liaison armory at [[The Gloam Smithy]]  
 **Current Leader(s):** Strategic command by [[Jannalor Rokas]]; field leadership by rotating Brambleblade captains (seconded Bladewardens from [[The Moonblade Forge|the Moonblades]])
 
 ## Structure and Ranks

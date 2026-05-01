@@ -12,9 +12,10 @@ tags:
 
 ## Overview
 
-**Founders:** Elder druids and treaty-keepers who formalized Aqualonde's fae compacts in the early Fifth Radiant Age
-**Primary Location:** [[The Petal Hollow]] (near [[Eirune’s Gap]], [[Aqualonde]])
-**Current Leader(s):** [[Maylin Lurel]] – Seedspeaker of [[Aqualonde]]
+**Founders:** Elder druids and treaty-keepers who formalized Aqualonde's fae compacts in the early Fifth Radiant Age  
+**Primary Location:** [[The Petal Hollow]] (near [[Eirune’s Gap]], [[Aqualonde]])  
+**Current Leader(s):** [[Maylin Lurel]] – Seedspeaker of [[Aqualonde]]  
+
 
 ## Structure and Ranks
 

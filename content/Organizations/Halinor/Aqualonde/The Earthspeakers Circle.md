@@ -12,9 +12,9 @@ tags:
 
 ## Overview
 
-**Founders:** The first Circle was formed in the early Fourth Radiant Age by druids and rootcallers who refused to bind [[Aqualonde]]'s growth to mortal timelines.
-**Primary Location:** [[The Rootwell]], an underground grove beneath Aqualonde's [[The Elder Tree|Elder Tree]]
-**Current Leader(s):** [[Brynna Hollowroot]]
+**Founders:** The first Circle was formed in the early Fourth Radiant Age by druids and rootcallers who refused to bind [[Aqualonde]]'s growth to mortal timelines.  
+**Primary Location:** [[The Rootwell]], an underground grove beneath Aqualonde's [[The Elder Tree|Elder Tree]]  
+**Current Leader(s):** [[Brynna Hollowroot]]  
 
 ## Structure and Ranks
 

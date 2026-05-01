@@ -13,9 +13,9 @@ tags:
 
 ## Overview
 
-**Founders:** Early master-smiths of [[The Gloam Smithy]], united under the first Grand Forgewright during the Fifth Radiant Age
-**Primary Location:** [[The Gloam Smithy]], moonlit cliffs of northern [[Aqualonde]]
-**Current Leader(s):** [[Jannalor Rokas]]
+**Founders:** Early master-smiths of [[The Gloam Smithy]], united under the first Grand Forgewright during the Fifth Radiant Age  
+**Primary Location:** [[The Gloam Smithy]], moonlit cliffs of northern [[Aqualonde]]  
+**Current Leader(s):** [[Jannalor Rokas]]  
 
 ## Structure and Ranks
 

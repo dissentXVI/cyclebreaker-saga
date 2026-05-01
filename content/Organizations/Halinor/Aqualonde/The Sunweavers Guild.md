@@ -13,9 +13,9 @@ tags:
 
 ## Overview
 
-**Founders:** The First Loom Circle—ancestral weavers who formalized [[Aqualonde]]'s civic colors and ritual patterns in the late Fourth Radiant Age
-**Primary Location:** [[The Loomhall]] ([[Riverwalk]], beside [[Lightreach Falls]])
-**Current Leader(s):** [[Maevienne Narelith]] – Grand Artisan of the Loomhall
+**Founders:** The First Loom Circle—ancestral weavers who formalized [[Aqualonde]]'s civic colors and ritual patterns in the late Fourth Radiant Age  
+**Primary Location:** [[The Loomhall]] ([[Riverwalk]], beside [[Lightreach Falls]])  
+**Current Leader(s):** [[Maevienne Narelith]] – Grand Artisan of [[the Loomhall]]  
 
 ## Structure and Ranks
 

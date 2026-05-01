@@ -14,8 +14,7 @@ tags:
 
 **Founders:** Four surviving Dawnbound knights of Archbishop Louis-roi Arch de Soleil  
 **Primary Location:** [[Heldenheim]], Carinthia  
-**Current Leaders:** One head per house (see individual entries)
-
+**Current Leaders:** One head per house (see individual entries)  
 The High Houses are the four noble bloodlines of [[Heldenheim|Carinthia]], each descended from a knight who survived the battle against [[Skadraxes]] during the early [[Wyrmsfall War]]. Elevated by [[Louis'roi Arch de Soleil]] as a reward for their sacrifice, each house was granted a domain of authority that has defined its identity across generations.
 
 The four houses are:

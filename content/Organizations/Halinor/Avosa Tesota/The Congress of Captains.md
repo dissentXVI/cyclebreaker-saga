@@ -13,9 +13,9 @@ image:
 
 ## Overview
 
-**Founders:** The First Fleet of Captains of [[Avosa Tesota]]
-**Primary Location:** [[Admiralty Hall]], [[Gilded Bay]], [[Avosa Tesota]]
-**Current Leader(s):** [[Corella Marante|Admiral Marante]] (incumbent), [[Solana Varros]] (Congresswoman and declared challenger)
+**Founders:** The First Fleet of Captains of [[Avosa Tesota]]  
+**Primary Location:** [[Admiralty Hall]], [[Gilded Bay]], [[Avosa Tesota]]  
+**Current Leader(s):** [[Corella Marante|Admiral Marante]] (incumbent), [[Solana Varros]] (Congresswoman and declared challenger)  
 
 The Congress of Captains consists of 20 voting members, representing fleets, guilds, and harbor districts. In times of division, the Admiral will cast the deciding vote.
 

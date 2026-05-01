@@ -13,9 +13,9 @@ tags:
 
 ## Overview
 
-**Founders:** A fellowship of river-wardens, route-mappers, and sky-speakers who formalized Aqualonde's courier paths during the mid–Fifth Radiant Age.
-**Primary Location:** [[The Zephyr Exchange]] ([[Riverwalk]], [[Aqualonde]])
-**Current Leader(s):** [[Tirenne Virel]] – Mistress of the Trade Winds
+**Founders:** A fellowship of river-wardens, route-mappers, and sky-speakers who formalized Aqualonde's courier paths during the mid–Fifth Radiant Age.  
+**Primary Location:** [[The Zephyr Exchange]] ([[Riverwalk]], [[Aqualonde]])  
+**Current Leader(s):** [[Tirenne Virel]] – Mistress of the Trade Winds  
 
 ## Structure and Ranks
 

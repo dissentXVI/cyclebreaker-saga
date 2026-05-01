@@ -13,9 +13,9 @@ tags:
 
 ## Overview
 
-**Founders:** Carlotte Cordray and a circle of poet-orators at the end of the Fourth Radiant Age
-**Primary Location:** [[Salon Stellaire]] ([[Riverwalk]], [[Aqualonde]])
-**Current Leader(s):** [[Renzo Altire]] – Director of the Starcallers
+**Founders:** Carlotte Cordray and a circle of poet-orators at the end of the Fourth Radiant Age  
+**Primary Location:** [[Salon Stellaire]] ([[Riverwalk]], [[Aqualonde]])  
+**Current Leader(s):** [[Renzo Altire]] – Director of [[The Starcaller Salon|the Starcallers]]  
 
 ## Structure and Ranks
 
