@@ -109,5 +109,5 @@ footer {
 
 /* ── Hide folder title in popover previews ───────────────────────────*/
 .popover .popover-inner .article-title {
-  display: none;
+  display: none; !important
 }
