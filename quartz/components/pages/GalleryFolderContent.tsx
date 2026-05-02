@@ -265,10 +265,19 @@ export default ((opts?: { sort?: SortFn }) => {
   filter: invert(0) sepia(1) saturate(0.4) hue-rotate(170deg) brightness(0.55);
 }
 
+.gallery-grid-deities .gallery-card-inner {
+  background: color-mix(in srgb, var(--secondary) 10%, var(--light));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .gallery-grid-deities .gallery-portrait {
   object-fit: contain;
   object-position: center;
-  padding: 10%;
+  width: 55%;
+  height: 55%;
+  margin: auto;
   mix-blend-mode: multiply;
   filter: sepia(1) saturate(0.5) hue-rotate(170deg) brightness(0.7);
   opacity: 0.8;
@@ -277,7 +286,6 @@ export default ((opts?: { sort?: SortFn }) => {
 
 .gallery-grid-deities .gallery-card:hover .gallery-portrait {
   opacity: 1;
-  transform: scale(1.04);
 }
 
 .gallery-card-folder .gallery-card-inner {
