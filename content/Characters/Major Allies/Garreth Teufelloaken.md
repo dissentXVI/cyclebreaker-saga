@@ -1,13 +1,13 @@
 ---
 aliases:
-  - Gareth
+  - Garreth
 tags:
   - major-ally
   - npc
-image: Garreth.webp
+image: Artwork/Characters/Wanderers/Southern_Kula/Garreth.webp
 ---
 
-![[Garreth.webp]]
+![[Artwork/Characters/Wanderers/Southern_Kula/Garreth.webp]]
 
 > "We aren't going to earn a welcome by standing out. Keep your head down and do good."
 

@@ -7,10 +7,11 @@ tags:
   - minor-character
   - navarresean-see
   - historical
-image: Chronicles/Lore Drops/The Watcher of the Lake/Paintings/Thallan_Laelnathor_II.webp
+  - npc
+image: Thallan_Laelnathor_II.webp
 ---
 
-![[Chronicles/Lore Drops/The Watcher of the Lake/Paintings/Thallan_Laelnathor_II.webp]]
+![[Artwork/Lore Drops/Watcher of the Lake/Thallan_Laelnathor_II.webp]]
 
 **Race**: True Elf (Navarresean)
 

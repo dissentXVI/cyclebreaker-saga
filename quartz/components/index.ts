@@ -24,6 +24,7 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import RandomEntry from "./RandomEntry"
+import GalleryFolderContent from "./pages/GalleryFolderContent"
 
 export {
   ArticleTitle,
@@ -52,4 +53,5 @@ export {
   Flex,
   ConditionalRender,
   RandomEntry,
+  GalleryFolderContent,
 }

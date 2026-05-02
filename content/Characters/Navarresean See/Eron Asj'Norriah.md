@@ -7,7 +7,8 @@ tags:
   - minor-character
   - navarresean-see
   - historical-figure
-image: Eron_AsjNarriah.webp
+  - npc
+image: Artwork/Characters/Navarre/Eron_AsjNarriah_v2.webp
 ---
 
 ![[Eron_AsjNarriah_v2.webp]]

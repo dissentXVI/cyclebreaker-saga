@@ -7,10 +7,11 @@ tags:
   - minor-character
   - navarresean-see
   - historical-figure
-image: High_Magister_Faedranathel_Nox.png
+  - npc
+image: High_Magister_Faedranathel_Nox.webp
 ---
 
-![[High_Magister_Faedranathel_Nox.webp]]
+![[Artwork/Lore Drops/Watcher of the Lake/High_Magister_Faedranathel_Nox.webp]]
 
 **Race**: True Elf (Navarresean)
 

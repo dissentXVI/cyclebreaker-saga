@@ -34,7 +34,7 @@ Ariesa’s natural warmth and expansive capacity for affection are balanced by h
 ## Character History
 Ariesa ran away from her kula to become a world-famous hero, all to bring about equality for her people. Sure, there are some naysayers back home who would spitefully snap: “Ariesa, that’s a ridiculous idea that only a child would believe in” or “Ariesa, you need to come home and help take care of our community” and “Ariesa, you can’t control your wild magic and you’re going to turn yourself into a pile of feather dusters and die,” but none of those people know what she’s capable of. Which is lots of magic and even more optimism.
 
-Shortly before she ran away from home, she sort of started a fight with some Tarwa’kem nobles. Some kula tents were burned in retaliation, and [[Gareth Teufelloaken|Gareth]] got super mad at her. (It wasn’t even her fault though. She was protecting Gareth from bullies). Anyway, that was the beginning of the end of her time at the Kula. And the beginning of the end of her best friend being her best friend, but that’s fine because she has better friends now, and they appreciate her.
+Shortly before she ran away from home, she sort of started a fight with some Tarwa’kem nobles. Some kula tents were burned in retaliation, and [[Garreth Teufelloaken|Gareth]] got super mad at her. (It wasn’t even her fault though. She was protecting Gareth from bullies). Anyway, that was the beginning of the end of her time at the Kula. And the beginning of the end of her best friend being her best friend, but that’s fine because she has better friends now, and they appreciate her.
 
 Before THAT she was raised by Pappy, her maternal grandfather. [[Volkar Hecate|Pappy]] and her got along great because he hated everyone but she was too stubborn to give up so eventually he had to love her. He’s the Kula’s tinker, and he’s pretty scared of anyone who isn’t a tiefling since an angry mob killed his wife (Ariesa’s grandmother) when Ariesa’s mom was really little. 
 ## Current Status
@@ -44,7 +44,7 @@ Flashy, impressive magic that she can write home about (literally)
 ## Notable Relationships
 [[Gothmog Gansukh|Gothmog]], [[Laena Zahir|Laena]], and [[Frog Gulgalla|Frog]] - her fellow Aspira-Chosen
 
-[[Gareth Teufelloaken]] - her childhood-best-friend-turned-judgmental-golden-boy
+[[Garreth Teufelloaken]] - her childhood-best-friend-turned-judgmental-golden-boy
 
 [[Volkar Hecate|Pappy]] - her maternal grandfather, a curmudgeonly tinker who raised her
 ## Secrets

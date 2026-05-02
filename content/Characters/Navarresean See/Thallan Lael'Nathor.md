@@ -7,7 +7,8 @@ tags:
   - minor-character
   - navarresean-see
   - historical-figure
-image: Thallan_Laelnathor.webp
+  - npc
+image: Artwork/Characters/Navarre/Thallan_Laelnathor.webp
 ---
 
 ![[Thallan_Laelnathor.webp]]

@@ -69,12 +69,14 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
+// GalleryFolderContent is set in folderPage.tsx — it automatically renders
+// portrait card grids for Characters/ and Locations/ folders, and falls back
+// to the standard list view for everything else.
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    // Hide date/read-time on folder list pages too — these are navigation pages
     Component.ConditionalRender({
       component: Component.ContentMeta(),
       condition: (page) => page.fileData.slug !== "index",

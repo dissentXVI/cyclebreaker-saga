@@ -6,7 +6,7 @@ tags:
   - minor-character
   - navarresean-see
   - npc
-image: Thalaniel_Shamashur.webp
+image: Artwork/Characters/Navarre/Thalaniel_Shamashur.webp
 ---
 
 ![[Thalaniel_Shamashur.webp]]

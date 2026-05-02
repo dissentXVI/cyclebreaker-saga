@@ -7,7 +7,7 @@ tags:
   - minor-character
   - navarresean-see
   - historical-figure
-image: Shade_of_VaelDorath.webp
+image:
 ---
 **Race**: True Elf (Navarresean)
 

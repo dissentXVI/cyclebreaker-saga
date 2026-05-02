@@ -5,10 +5,10 @@ aliases:
 tags:
   - vociterra
   - npc
-image: Tribunis-Ignia- tes-Metellus_v2.webp
+image: Artwork/Characters/Vociterra/Tribunis-Ignia-tes-Metellus_v2.webp
 ---
 
-![[Tribunis-Ignia- tes-Metellus_v2.webp]]
+![[Tribunis-Ignia-tes-Metellus_v2.webp]]
 
 > "Fight first. Questions after."
 

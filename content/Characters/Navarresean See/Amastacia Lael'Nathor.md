@@ -7,10 +7,11 @@ tags:
   - minor-character
   - navarresean-see
   - historical-figure
-image: Chronicles/Lore Drops/The Watcher of the Lake/Paintings/Amastasia_Laelnathor.webp
+  - npc
+image: Amastasia_Laelnathor.webp
 ---
 
-![[Chronicles/Lore Drops/The Watcher of the Lake/Paintings/Amastasia_Laelnathor.webp]]
+![[Artwork/Lore Drops/Watcher of the Lake/Amastasia_Laelnathor.webp]]
 
 **Race**: True Elf (Navarresean)
 
