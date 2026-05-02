@@ -50,6 +50,14 @@
   border-radius: 0 !important;
 }
 
+/* ── Optimus Princeps font (homepage title only) ─────────────────────*/
+@font-face {
+  font-family: 'OptimusPrinceps';
+  src: url('/static/OptimusPrinceps.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* ── Center the page title on the homepage only ──────────────────────*/
 .article-title {
   text-align: left;
@@ -58,6 +66,7 @@
 [data-slug="index"] .article-title {
   text-align: center;
   width: 100%;
+  font-family: 'OptimusPrinceps', serif;
 }
 
 /* ── Hide date / read-time on homepage and folder list pages ─────────
