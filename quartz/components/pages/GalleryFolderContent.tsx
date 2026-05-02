@@ -269,14 +269,15 @@ export default ((opts?: { sort?: SortFn }) => {
   object-fit: contain;
   object-position: center;
   padding: 10%;
-  mix-blend-mode: multiply
-  background: color-mix(in srgb, var(--secondary) 10%, var(--light));
+  mix-blend-mode: multiply;
   filter: sepia(1) saturate(0.5) hue-rotate(170deg) brightness(0.7);
   opacity: 0.8;
+  transition: opacity 0.2s ease;
 }
 
 .gallery-grid-deities .gallery-card:hover .gallery-portrait {
-  opacity: 0.75;
+  opacity: 1;
+  transform: scale(1.04);
 }
 
 .gallery-card-folder .gallery-card-inner {
