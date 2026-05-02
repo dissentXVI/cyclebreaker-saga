@@ -270,7 +270,7 @@ export default ((opts?: { sort?: SortFn }) => {
   object-position: center;
   padding: 10%;
   background: color-mix(in srgb, var(--secondary) 10%, var(--light));
-  filter: invert(1) sepia(1) saturate(0.4) hue-rotate(170deg) brightness(0.55);
+  filter: invert(1) brightness(0.6) sepia(1) saturate(0.5) hue-rotate(170deg);;
   opacity: 0.5;
 }
 
