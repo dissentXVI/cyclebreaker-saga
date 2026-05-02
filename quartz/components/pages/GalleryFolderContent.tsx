@@ -124,7 +124,7 @@ export default ((opts?: { sort?: SortFn }) => {
                 count: sorted.length,
               })}
             </p>
-            <div class="gallery-grid">
+            <div class={`gallery-grid${slug.includes("Divinities") ? " gallery-grid-deities" : ""}`}>
               {sorted.map((page) => {
                 const pageSlug = page.slug ?? ""
                 const title = (page.frontmatter?.title as string) ?? pageSlug.split("/").pop() ?? "Untitled"
@@ -263,6 +263,19 @@ export default ((opts?: { sort?: SortFn }) => {
 
 :root[saved-theme="light"] .gallery-placeholder-logo {
   filter: invert(0) sepia(1) saturate(0.4) hue-rotate(170deg) brightness(0.55);
+}
+
+.gallery-grid-deities .gallery-portrait {
+  object-fit: contain;
+  object-position: center;
+  padding: 10%;
+  background: color-mix(in srgb, var(--secondary) 10%, var(--light));
+  filter: invert(1) sepia(1) saturate(0.4) hue-rotate(170deg) brightness(0.55);
+  opacity: 0.5;
+}
+
+.gallery-grid-deities .gallery-card:hover .gallery-portrait {
+  opacity: 0.75;
 }
 
 .gallery-card-folder .gallery-card-inner {
