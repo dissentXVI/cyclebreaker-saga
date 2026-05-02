@@ -2,7 +2,7 @@
 aliases:
 tags:
   - deity
-image: /static/deities/Haelaxa_iso.webp
+image: static/deities/Haelaxa_iso.webp
 ---
 ![[Haelaxa_Stroke_iso.webp]]
 

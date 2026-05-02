@@ -2,7 +2,7 @@
 aliases:
 tags:
   - deity
-image: /static/deities/Pegape_iso.webp
+image: static/deities/Pegape_iso.webp
 ---
 ![[Pegape_Stroke_iso.webp]]
 

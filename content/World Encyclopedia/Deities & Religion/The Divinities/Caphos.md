@@ -2,7 +2,7 @@
 aliases:
 tags:
   - deity
-image: /static/deities/Caphos_iso.webp
+image: static/deities/Caphos_iso.webp
 ---
 ![[Caphos_Stroke_iso.webp]]
 

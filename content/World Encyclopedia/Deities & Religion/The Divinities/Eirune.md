@@ -2,7 +2,7 @@
 aliases:
 tags:
   - deity
-image: /static/deities/Eirune_iso.webp
+image: static/deities/Eirune_iso.webp
 ---
 ![[Eirune_Stroke_iso.webp]]
 

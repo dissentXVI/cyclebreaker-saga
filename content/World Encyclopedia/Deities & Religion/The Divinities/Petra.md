@@ -2,7 +2,7 @@
 aliases:
 tags:
   - deity
-image: /static/deities/Petra_iso.webp
+image: static/deities/Petra_iso.webp
 ---
 ![[Petra_Stroke_Iso.webp]]
 

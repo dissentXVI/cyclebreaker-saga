@@ -2,7 +2,7 @@
 aliases:
 tags:
   - deity
-image: /static/deities/Demeria_iso.webp
+image: static/deities/Demeria_iso.webp
 ---
 ![[Demeria_Stroke_iso.webp]]
 
