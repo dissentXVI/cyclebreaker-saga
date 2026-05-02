@@ -67,8 +67,8 @@
   text-align: center;
   width: 100%;
   font-family: 'OptimusPrinceps', serif;
-  font-size: 3rem;
-  color: var(--secondary);
+  font-size: 4rem;
+  color: #7b97aa !important;
 }
 
 /* ── Hide date / read-time on homepage and folder list pages ─────────
@@ -95,7 +95,6 @@ li.section-li > .section .meta {
 }
 
 /* Hide the h1 article title on folder pages */
-.folder-listing .article-title,
-.gallery-folder ~ .article-title {
+.folder-listing .article-title {
   display: none;
 }
