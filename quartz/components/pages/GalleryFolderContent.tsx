@@ -278,14 +278,13 @@ export default ((opts?: { sort?: SortFn }) => {
   width: 55%;
   height: 55%;
   margin: auto;
-  mix-blend-mode: multiply;
-  filter: sepia(1) saturate(0.5) hue-rotate(170deg) brightness(0.7);
-  opacity: 0.8;
+  filter: invert(1) sepia(1) saturate(0.4) hue-rotate(170deg) brightness(0.55);
+  opacity: 0.5;
   transition: opacity 0.2s ease;
 }
 
 .gallery-grid-deities .gallery-card:hover .gallery-portrait {
-  opacity: 1;
+  opacity: 0.8;
 }
 
 .gallery-card-folder .gallery-card-inner {
