@@ -116,7 +116,7 @@ export default ((opts?: { sort?: SortFn }) => {
 
       return (
         <div class="popover-hint">
-          <style>{`.popover-hint .article-title { display: none; }`}</style>
+          <style>{`.popover-hint .article-title { display: none; } .popover-hint > article { display: none; }`}</style>
           <article>{content}</article>
           <div class="gallery-folder">
             <p class="gallery-count">
