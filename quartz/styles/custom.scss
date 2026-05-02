@@ -106,3 +106,8 @@ li.section-li > .section .meta {
 footer {
   display: none;
 }
+
+/* ── Hide folder title in popover previews ───────────────────────────*/
+.popover .popover-inner .article-title {
+  display: none;
+}
