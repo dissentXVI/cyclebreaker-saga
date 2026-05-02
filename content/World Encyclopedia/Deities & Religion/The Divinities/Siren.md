@@ -2,7 +2,7 @@
 aliases:
 tags:
   - deity
-image:
+image: /static/deities/Siren_iso.webp
 ---
 ![[Siren_Stroke_iso.webp]]
 

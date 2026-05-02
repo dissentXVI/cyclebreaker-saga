@@ -2,7 +2,7 @@
 aliases:
 tags:
   - deity
-image:
+image: /static/deities/Alophia_iso.webp
 ---
 ![[Alophia_Stroke_iso.webp]]
 

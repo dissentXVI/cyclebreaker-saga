@@ -2,7 +2,7 @@
 aliases:
 tags:
   - deity
-image:
+image: /static/deities/Tytos_iso.webp
 ---
 ![[Tytos_Stroke_iso.webp]]
 

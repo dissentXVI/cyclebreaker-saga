@@ -2,7 +2,7 @@
 aliases:
 tags:
   - deity
-image:
+image: /static/deities/Aesikon_iso.webp
 ---
 ![[Aesikon_Stroke_iso.webp]]
 

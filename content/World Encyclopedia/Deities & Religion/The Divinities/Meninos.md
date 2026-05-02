@@ -2,7 +2,7 @@
 aliases:
 tags:
   - deity
-image:
+image: /static/deities/Meninos_iso.webp
 ---
 ![[Meninos_Stroke_iso.webp]]
 

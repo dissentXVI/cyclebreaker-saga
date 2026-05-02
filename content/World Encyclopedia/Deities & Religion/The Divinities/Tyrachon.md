@@ -2,7 +2,7 @@
 aliases:
 tags:
   - deity
-image:
+image: /static/deities/Tyrachon_iso.webp
 ---
 ![[Tyrachon_Stroke_iso.webp]]
 
