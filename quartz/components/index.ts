@@ -24,6 +24,7 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import RandomEntry from "./RandomEntry"
+import CollapseExplorer from "./CollapseExplorer"
 import GalleryFolderContent from "./pages/GalleryFolderContent"
 
 export {
@@ -54,4 +55,5 @@ export {
   ConditionalRender,
   RandomEntry,
   GalleryFolderContent,
+  CollapseExplorer,
 }

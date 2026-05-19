@@ -111,3 +111,20 @@ footer {
 .popover .popover-inner .article-title {
   display: none !important;
 }
+
+/* ── Collapse all button ─────────────────────────────────────────── */
+#collapse-all-btn {
+  background: none;
+  border: none;
+  color: var(--secondary);
+  cursor: pointer;
+  padding: 0 0.25rem;
+  opacity: 0.6;
+  transition: opacity 0.2s;
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
+  &:hover {
+    opacity: 1;
+  }
+}
