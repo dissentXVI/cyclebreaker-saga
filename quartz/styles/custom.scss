@@ -118,12 +118,14 @@ footer {
   border: none;
   color: var(--secondary);
   cursor: pointer;
-  padding: 0 0.25rem;
+  padding: 0 0 0 0.4rem;
   opacity: 0.6;
   transition: opacity 0.2s;
   display: inline-flex;
   align-items: center;
-  vertical-align: middle;
+  flex-shrink: 0;
+  margin-left: auto;
+
   &:hover {
     opacity: 1;
   }
