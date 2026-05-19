@@ -1,7 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor } from "./types"
 
 // @ts-ignore
-import script from "./scripts/collapseExplorer.inline"
+import script from "./scripts/CollapseExplorer.inline"
 
 const CollapseExplorer: QuartzComponent = () => {
   return <></>
