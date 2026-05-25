@@ -125,3 +125,7 @@ li.section-li > .section .meta {
     opacity: 1;
   }
 }
+/* ── Hide Quartz default footer content (keep for SuggestionBox) ────*/
+footer p, footer ul {
+  display: none;
+}

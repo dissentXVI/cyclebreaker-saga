@@ -62,7 +62,7 @@ SuggestionBox.afterDOMLoaded = script
 
 SuggestionBox.css = `
 #suggestion-box-btn {
-  position: fixed;
+  position: fixed !important;
   bottom: 1.5rem;
   right: 1.5rem;
   z-index: 1000;
