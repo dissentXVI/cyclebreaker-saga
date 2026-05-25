@@ -10,7 +10,7 @@ image: Ariesa.webp
 
 ![[Ariesa.webp]]
 
-> "Quote goes here"
+>Be the change you want to see in the world
 
 
 **Race**: Tiefling
