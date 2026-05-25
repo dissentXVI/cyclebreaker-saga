@@ -10,7 +10,7 @@ image: Ariesa.webp
 
 ![[Ariesa.webp]]
 
->Be the change you want to see in the world
+>"Be the change you want to see in the world"
 
 
 **Race**: Tiefling
