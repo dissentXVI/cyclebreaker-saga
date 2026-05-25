@@ -3,7 +3,6 @@ character: Frog
 tags:
   - interlude
 ---
-
 # Quiss de Barghest's Last Day
 
 *The last job Quiss ran for Sharl van der Cleev and the Crimson Cleavers — breaking a miners' strike. Told from Quiss's perspective as sniper, this is the mission that finally broke something in her.*

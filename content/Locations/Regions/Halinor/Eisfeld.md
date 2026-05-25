@@ -1,29 +1,22 @@
 ---
 aliases:
-- Eisfeld
-draft: true
+  - Eisfeld
+draft: false
 tags:
-- region
-- to-review
-- gm-only
+  - region
 ---
-
-###### Type and Location
-Island — frigid landmass north of [[Halinor]], separated from the mainland by the [[Colberg Sea]]
+###### Type and Location Island — frigid landmass north of [[Halinor]], separated from the mainland by the [[Colberg Sea]]
 
 ## Overview
-Eisfeld is a vast, ice-scoured island that has never been settled by mortals in any meaningful sense. It is the ancestral home of three of [[Ymirethor]]'s First Brood — [[Skadraxes]], [[Wodirethrax]], and [[Durnirax]] — who claimed it when they first hatched and have considered it their territory ever since. The island's peaks, glaciers, and perpetual storms suit creatures of their scale, and its remoteness has kept it beyond the reach of any mortal power that has ever looked at it and considered the cost.
 
-[[Durnirax]] still resides here in self-imposed isolation at the Spire of Last Light, an unscalable peak deep in the island's interior where he has withdrawn since the death of [[Saint Iseult]]. [[Laufraxes]], his daughter, patrols the Skyrend Peaks along the northern ridgeline. [[Wodirethrax]] once called Eisfeld home as well, but his war with [[Heldenheim|Carinthia]] has relocated his base to the drifting glacial citadel of Wodr's Floe along the eastern coast — itself calved from Eisfeld's southern glacial shelf.
+Eisfeld is a vast, ice-scoured island north of Halinor that no civilization has ever settled, and few have survived attempting to explore. It is known across the continent for one thing above all else: it belongs to dragons. By common understanding — practical rather than legal, earned through centuries of failed ambition — no city-state has ever seriously pressed a claim to it, and none are likely to.
 
-No mortal city-state has ever seriously attempted to claim or settle Eisfeld. By common understanding across [[Halinor]], it belongs to dragons.
+Expeditions to Eisfeld have been mounted over the centuries, driven by scholarly curiosity, the lure of rumored relics, or the particular kind of arrogance that mistakes preparation for immunity. Most do not return. Those that do rarely go back. The dangers are not limited to the island's inhabitants. The terrain, the cold, and the storms are hazards enough on their own — the dragons are simply the final argument against lingering.
 
 ## Climate & Ecology
-Permanent snowpack covers most of Eisfeld year-round. Storms roll in from the northern sea with little warning, and the interior features deep fjords, frozen lakes, and ridgelines that cut the wind like blades. The coastal margins support hardy scrub, frost lichen, and cold-weather fauna — arctic seabirds, large marine predators, and the occasional creature suited to extreme cold. The interior is largely empty of life that is not a dragon.
+
+Permanent snowpack covers most of Eisfeld year-round. Storms roll in from the northern sea with little warning and less mercy, and the interior is a hostile arrangement of deep fjords, frozen lakes, and ridgelines that cut the wind like blades. Temperatures in the interior reach extremes that kill the unprepared within hours. Even the coastal margins, the most accessible part of the island, demand respect — arctic seabirds, large marine predators, and cold-adapted fauna occupy the shoreline, and the weather shifts without warning.
+
+The interior is largely empty of life that is not a dragon.
 
 ## Related Pages
-- **[[Wodirethrax]]** — silver dragon; wages the [[Wyrmsfall War]] from Wodr's Floe, calved from Eisfeld's southern shelf
-- **[[Durnirax]]** — gold dragon; resides in isolation at the Spire of Last Light in Eisfeld's interior
-- **[[Skadraxes]]** — copper dragon; made her home on Eisfeld's skyborne crags before her death
-- **[[Laufraxes]]** — Durnirax's daughter; patrols the Skyrend Peaks
-- **[[Colberg Sea]]** — the frozen sea separating Eisfeld from the [[Halinor]] mainland

@@ -3,7 +3,6 @@ character: Other
 tags:
   - interlude
 ---
-
 # Advenientis Aestus
 
 *Ignia, Serena, and their father Legatus Gallus gen Quietus sail toward the eastern colonies. A pre-campaign scene establishing the Vociran mission to neutralize the Halinorum Exemplar threat — and what Gallus saw at Sticaea.*

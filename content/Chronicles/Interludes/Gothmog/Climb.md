@@ -3,7 +3,6 @@ character: Gothmog
 tags:
   - interlude
 ---
-
 # Climb
 
 *A formative memory — young Gothmog scales 'The Scythe,' a glacial ice wall, to impress his mother Ochmaa. She cuts his safety rope and disappears into the forest with Batuhan. He finishes the climb alone.*

@@ -3,7 +3,6 @@ character: Frog
 tags:
   - interlude
 ---
-
 # A Frog is Born
 
 *The origin of Frog — formerly Jewel Siltborn, formerly Quiss de Barghest. Traveling with the Moonlit Revel as Argenta, she gives birth to Tadami and makes the agonizing decision to give her up. She arrives at a trapper's outpost and chooses her new name.*

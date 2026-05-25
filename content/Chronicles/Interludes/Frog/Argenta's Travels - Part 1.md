@@ -3,7 +3,6 @@ character: Frog
 tags:
   - interlude
 ---
-
 # Argenta's Travels — Part 1
 
 *Before Tadami's birth — Jewel, now Argenta, travels with Qamar and the Moonlit Revel. She confesses her past, deals with blackmailers in the night, and begins to reckon with who she was as Quiss.*

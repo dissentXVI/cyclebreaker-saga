@@ -3,7 +3,6 @@ character: Laena
 tags:
   - interlude
 ---
-
 # Sultana's Coronation
 
 *Two years before the campaign begins — the Zahir family attends the coronation of Sultana Neema Karo-kem. The new Sultana's first decree shocks the nobility: all trade with the Vociran Empire is severed immediately.*

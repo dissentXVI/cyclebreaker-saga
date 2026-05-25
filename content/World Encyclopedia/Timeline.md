@@ -38,7 +38,7 @@ In gratitude, [[Ymirethor]] taught the earliest mortals of [[Aspiria]] how to sh
 
 ***[[Omnistrix]] crash lands on [[Neumeris]]*** - As [[Ymirethor]] fled [[Thyraxia]], he was pursued by [[Omnistrix]], a [[Telothian]] Prime Hunter built to extinguish pneuma-bearing life. The construct tracked him across realms and eventually crash-landed on [[Neumeris]] (now called [[Aspiria]]), its descent carving a fiery scar into [[Halinor]]'s crust. The impact, repelled by [[Aspiria]]'s divine pneuma, ruptured the land and embedded [[Omnistrix]] deep beneath the surface—dormant but not dead. Its core still hums in silence, buried beneath leyline-rich stone, while [[Ymirethor]] sealed the site with breathwarding glyphs and warned his brood never to return.
 
-***[[The First Brood]] Hatches*** - [[Skadraxes]], [[Wodirethrax]], and [[Durnirax]] settle in Northern [[Halinor]] and [[Eisfeld]]. [[Krisnarax]] and [[Nottraxes]] settle in [[Kokyotos]]. [[Alvaderax]] settles in [[Saptha Sindhu]].
+***[[The First Brood]] Hatches*** - [[Skadraxes]], [[Wodirethrax]], and [[Durnirax]] settle in Northern [[Halinor]] and [[Eisfeld (GM Version)]]. [[Krisnarax]] and [[Nottraxes]] settle in [[Kokyotos]]. [[Alvaderax]] settles in [[Saptha Sindhu]].
 
 ## [[The First Radiant Age]]
 

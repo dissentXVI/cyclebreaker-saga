@@ -3,7 +3,6 @@ character: Gothmog
 tags:
   - interlude
 ---
-
 # The King of the Wood
 
 *At Shurevaire academy, M'ylaena convinces Gothmog and Theo to sneak through a fairy ring in Professor Neridove's office to summon the King of the Wood. The ritual goes badly wrong.*

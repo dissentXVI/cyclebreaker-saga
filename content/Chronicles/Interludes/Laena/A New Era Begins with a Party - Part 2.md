@@ -3,7 +3,6 @@ character: Laena
 tags:
   - interlude
 ---
-
 # A New Era Begins with a Party — Part 2
 
 *Still hiding under the desk, Laena overhears Ramses and Ngor discussing her father Oman's secret back-channel with the Vocirans. She makes her way to Tytos's temple to pray. Continues from [[A New Era Begins with a Party]].*

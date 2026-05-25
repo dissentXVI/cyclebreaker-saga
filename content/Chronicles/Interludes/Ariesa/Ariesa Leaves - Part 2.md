@@ -3,7 +3,6 @@ character: Ariesa
 tags:
   - interlude
 ---
-
 # Ariesa Leaves — Part 2
 
 *Ariesa's late-night confrontation with Pappy before she slips away from the Kula. Continues from [[Ariesa Runs Away]].*

@@ -3,7 +3,6 @@ character: Frog
 tags:
   - interlude
 ---
-
 # Frog in Exile — Part 1
 
 *After leaving Tadami behind, Frog wanders alone into the Frostmarch wilderness. She encounters a cult procession carrying a prisoner, finds her will to live again, and eventually reaches a dead man's cabin on a winter shore.*

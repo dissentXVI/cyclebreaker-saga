@@ -3,7 +3,6 @@ character: Other
 tags:
   - interlude
 ---
-
 # A Hungering Darkness
 
 *On the road between Serinvale and Aqualonde, an elven family's wagon breaks down in the Fauconwood at night. One by one the family disappears. A well-dressed stranger with glowing eyes offers the surviving daughter shelter.*

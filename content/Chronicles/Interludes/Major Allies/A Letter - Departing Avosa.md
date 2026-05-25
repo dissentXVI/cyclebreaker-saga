@@ -4,7 +4,6 @@ tags:
   - interlude
   - shurevaire
 ---
-
 # A Letter — Departing Avosa
 
 *Theo's letter to Gothmog, written the night before he and Ylaena board the boat to Shurevaire. Melancholy, fond, and a little anxious.*

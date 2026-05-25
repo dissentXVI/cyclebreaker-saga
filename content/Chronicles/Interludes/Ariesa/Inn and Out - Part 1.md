@@ -3,7 +3,6 @@ character: Ariesa
 tags:
   - interlude
 ---
-
 # Inn and Out — Part 1
 
 *Ariesa, traveling alone toward Laconia, clears a rat nest from the Merry Mountain Inn's cellar — and is quietly shuffled out the back door. On returning she finds a Tarwa'kin noblewoman's carriage and a face she recognizes.*

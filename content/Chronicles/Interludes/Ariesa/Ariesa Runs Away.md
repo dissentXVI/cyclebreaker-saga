@@ -3,7 +3,6 @@ character: Ariesa
 tags:
   - interlude
 ---
-
 # Ariesa Runs Away
 
 *Ariesa kills a needle blight alone in the forest to prove the Kula's worth to a nearby town — and nearly dies doing it. The elders confine her to quarters. She starts packing.*

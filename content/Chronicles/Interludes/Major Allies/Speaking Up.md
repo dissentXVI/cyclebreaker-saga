@@ -3,7 +3,6 @@ character: Garreth
 tags:
   - interlude
 ---
-
 # Speaking Up
 
 *After the party leaves Tarwa'kem for Carinthia, Garreth faces the Kula elders to answer for Ariesa steering Beata and Bastien toward Laconia rather than home. He defends them — and pays a physical price.*

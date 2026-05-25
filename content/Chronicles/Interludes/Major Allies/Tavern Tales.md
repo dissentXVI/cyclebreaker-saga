@@ -3,7 +3,6 @@ character: Jendrick
 tags:
   - interlude
 ---
-
 # Tavern Tales
 
 *On the road with Diazana and Sylviane, Jendrick handles a drunk picking a fight at a tavern. Later, alone at the campfire, he burns a letter he was going to send back to Laconia.*

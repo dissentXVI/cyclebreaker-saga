@@ -3,7 +3,6 @@ character: Ariesa
 tags:
   - interlude
 ---
-
 # Inn and Out — Part 2
 
 *Ariesa and Tsua Zuberi share dinner at the Merry Mountain. Tsua has been searching for the Kula for years to make amends. Ariesa turns the evening into a lesson for the innkeeper. Continues from [[Inn and Out - Part 1]].*

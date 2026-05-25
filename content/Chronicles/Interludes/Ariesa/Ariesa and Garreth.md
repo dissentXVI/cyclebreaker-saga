@@ -3,7 +3,6 @@ character: Ariesa
 tags:
   - interlude
 ---
-
 # Ariesa and Garreth
 
 *Youth in the Kula — a lesson with Scholar Zorakas, and the night Garreth's powers first manifested while Ariesa's first spell went catastrophically wrong.*

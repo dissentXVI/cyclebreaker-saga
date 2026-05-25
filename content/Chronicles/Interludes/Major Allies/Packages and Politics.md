@@ -3,7 +3,6 @@ character: Mireya
 tags:
   - interlude
 ---
-
 # Packages and Politics
 
 *Shortly after the party's arrival in Tarwa'kem — Mayor Mireya runs into Sheriff Zeyn outside the scholar's post office. She tries to crack his armor. He has somewhere more secretive to be.*

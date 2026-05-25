@@ -3,7 +3,6 @@ character: Ignia, Serena
 tags:
   - interlude
 ---
-
 # Strangers in a Strange Land
 
 *Serena and Ignia lead a small Vociran strike force across the blighted wasteland of the former Mare Sticaea, hunting evidence of a new Exemplar ritual. Crusty the goblin tries to warn them. Things get complicated.*

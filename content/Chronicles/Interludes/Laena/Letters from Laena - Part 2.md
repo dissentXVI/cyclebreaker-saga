@@ -3,7 +3,6 @@ character: Laena
 tags:
   - interlude
 ---
-
 # Letters from Laena — Part 2
 
 *A letter home from Laconia. Laena describes her companions — Frog, Ariesa, Gothmog — and the adventures they've shared so far, including goblin diplomacy and a portable horse.*

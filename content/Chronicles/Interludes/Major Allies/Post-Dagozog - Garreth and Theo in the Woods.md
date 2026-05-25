@@ -3,7 +3,6 @@ character: Garreth
 tags:
   - interlude
 ---
-
 # Post-Dagozog — Garreth and Theo in the Woods
 
 *After the battle of Dagozog, Garreth hunts goblins in the forest outside Laconia while Ariesa fights inside. He overhears a chilling exchange between two robed figures — Kyrichos and Haxidemos — and meets Theo, who was watching too.*

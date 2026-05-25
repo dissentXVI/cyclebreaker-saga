@@ -3,7 +3,6 @@ character: Other
 tags:
   - interlude
 ---
-
 # A Story Begins
 
 *A young half-elf named Reyn, prone to daydreaming about heroes, boards a boat from Shurevaire on his first scholarly expedition abroad under the eccentric Professor Opars — with the world at his feet and his head still in the clouds.*

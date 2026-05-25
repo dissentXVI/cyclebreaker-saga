@@ -3,7 +3,6 @@ character: Theo, Ylaena
 tags:
   - interlude
 ---
-
 # It Belongs Out of a Museum
 
 *After Dagozog's fall, Theo and Ylaena return to Shurevaire on a hunch from Diazana — to recover the second piece of Velethoui's staff from the Hall of Antiquities. The security has been massively upgraded. The piece will need to be stolen.*

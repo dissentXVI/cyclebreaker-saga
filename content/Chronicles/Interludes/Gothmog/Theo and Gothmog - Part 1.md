@@ -3,7 +3,6 @@ character: Gothmog
 tags:
   - interlude
 ---
-
 # Theo and Gothmog — Part 1
 
 *Two scenes from Gothmog and Theo's time at Shurevaire: their first magic tutoring session over tea, and Ochmaa catching Gothmog lying about where he'd been.*

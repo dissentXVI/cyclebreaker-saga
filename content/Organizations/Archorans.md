@@ -5,8 +5,7 @@ aliases:
   - The Archorans
 tags:
   - organization
-  - to-review
-draft: true
+draft: false
 ---
 ## Overview
 
@@ -29,7 +28,7 @@ What connects these acts, whether they serve a common goal, and how long the Arc
 
 ## Narrative Relevance
 
-[[Aspiria's Chosen]] are aware that an Archoran — [[Kyrichos]] — was instrumental in the events at Sticaea Lake. They have also encountered or have knowledge of [[Allythoia]] and [[Haxidemos]], though the full scope of any of their activities remains opaque.
+[[Aspiria's Chosen]] are aware that the Archoran, [[Kyrichos]], was instrumental in the events at Sticaea Lake. They have also have knowledge of [[Allythoia]] and [[Haxidemos]] through witnesses or their own divine recollection (the Echo), though the full scope of any of their activities remains opaque.
 
 The Archorans have taken notice of the Chosen. Whether that attention is predatory, curious, or something else entirely has not been made known.
 

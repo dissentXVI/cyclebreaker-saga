@@ -3,7 +3,6 @@ character: Other
 tags:
   - interlude
 ---
-
 # After Hours
 
 *Late at the Sailor's Whimsy after closing, Mireya works up the nerve to join M'ylaena at her research table. Their conversation about goblin religion drifts toward Aspiria — and Mireya reveals that she may have heard a voice.*

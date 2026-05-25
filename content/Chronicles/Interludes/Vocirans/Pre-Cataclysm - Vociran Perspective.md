@@ -3,7 +3,6 @@ character: Other
 tags:
   - interlude
 ---
-
 # Pre-Cataclysm — Vociran Perspective
 
 *Told by a Vociran soldier named Augustus, dying in a bunker after a betrayal. He recounts the secret mission under Legatus Cassius into Halinorum — and the nights he spent with Marius on the long march to the end of all things.*

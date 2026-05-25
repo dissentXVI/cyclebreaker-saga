@@ -20,7 +20,7 @@ Halinor is the central continent of Aspiria and the seat of most living civiliza
 - **[[Avosa Tesota]]** – Free maritime city-state on the southeastern coast; built on revolution, trade, and seafaring pride
 - **[[Shurevaire]]** – Neutral island city of scholarship off the southwestern coast; draws minds from across the world
 - **[[D'yadya]]** – Western desert nation with a fractured, occupied identity; rich trade heritage and fierce local resilience
-- **[[Eisfeld]]** – Frigid island off the northern coast; remote and largely unexplored
+- **[[Eisfeld (GM Version)]]** – Frigid island off the northern coast; remote and largely unexplored
 
 ## Lore & Narrative Role
 Halinor has been the stage for every major age of Aspirian history that the players have witnessed so far. The [[Navarresean See|Navarresean Empire]] once unified much of the continent by force before collapsing under the weight of the [[The Tempest of Madness]]. In the wreckage, the present city-states rose — each shaped by the scars of that era. Dragons of [[Ymirethor]]'s First Brood settled in the north, leaving their mark on Carinthian spirituality, Halinori folklore, and the political memory of every nation that watched them wage war. The continent is currently fractured: Vociran forces have crossed from Eldamar, the Sticaean Abyss has severed east-west trade, and the silence of the Fae in the Fauconwood suggests something older than politics is stirring beneath the roots.

@@ -3,7 +3,6 @@ character: Ariesa
 tags:
   - interlude
 ---
-
 # Ariesa Leaves — Backstory PoV: Pappy
 
 *Written from the perspective of Volkar 'Pappy' Hecate — an appeal to the Patriarch on the night Ariesa leaves the Kula.*

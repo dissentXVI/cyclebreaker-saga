@@ -3,7 +3,6 @@ character: Laena
 tags:
   - interlude
 ---
-
 # Letters from Laena — Part 1
 
 *Laena's farewell letters to her father and mother, her sister Oseye, and her sick sister Monifa — written the night she leaves Tarwa'kem to search for a cure.*

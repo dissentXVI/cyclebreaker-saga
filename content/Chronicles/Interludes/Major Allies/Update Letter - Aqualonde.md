@@ -3,7 +3,6 @@ character: Mireya
 tags:
   - interlude
 ---
-
 # Update Letter — Aqualonde
 
 *A letter from Mireya delivered to the party in Aqualonde. Laconia is holding, the newcomers are adapting, but Tarwa'kem loggers are pushing into the forest and tensions are rising.*

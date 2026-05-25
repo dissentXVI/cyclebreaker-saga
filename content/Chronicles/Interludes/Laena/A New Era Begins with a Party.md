@@ -3,7 +3,6 @@ character: Laena
 tags:
   - interlude
 ---
-
 # A New Era Begins with a Party
 
 *At the Sultana's coronation celebration, Laena learns disturbing news about her prospective fiancé Tamar from Lady Tsua, then hides under a desk while two members of the monetarist council plot against the crown.*

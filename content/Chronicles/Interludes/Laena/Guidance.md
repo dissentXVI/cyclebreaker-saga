@@ -3,7 +3,6 @@ character: Laena
 tags:
   - interlude
 ---
-
 # Guidance
 
 *In Tarwa'kem during the party's visit, Laena slips away to the Hall of Order for a long overdue session of meditation and prayer. Tytos shows her visions of what's still to come — and she cautiously reaches out toward Aspiria.*
