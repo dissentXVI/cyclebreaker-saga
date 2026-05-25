@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import RandomEntry from "./RandomEntry"
 import CollapseExplorer from "./CollapseExplorer"
+import SuggestionBox from "./SuggestionBox"
 import GalleryFolderContent from "./pages/GalleryFolderContent"
 
 export {
@@ -56,4 +57,5 @@ export {
   RandomEntry,
   GalleryFolderContent,
   CollapseExplorer,
+  SuggestionBox,
 }
