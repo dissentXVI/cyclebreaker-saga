@@ -5,7 +5,9 @@ aliases:
 tags:
   - avosa
   - npc
+  - gm-only
 image: Reyes_Lobo.webp
+draft: true
 ---
 
 ![[Reyes_Lobo.webp]]

@@ -4,7 +4,9 @@ aliases:
 tags:
   - avosa
   - npc
+  - gm-only
 image: Santigo-del-Sol.webp
+draft: true
 ---
 
 ![[Santigo-del-Sol.webp]]

@@ -6,7 +6,9 @@ tags:
   - avosa
   - npc
   - city-leadership
+  - gm-only
 image: Isaacs_Cabres.webp
+draft: true
 ---
 
 ![[Isaacs_Cabres.webp]]

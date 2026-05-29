@@ -6,7 +6,9 @@ tags:
   - avosa
   - npc
   - city-leadership
+  - gm-only
 image: Solana_Varros.webp
+draft: true
 ---
 
 ![[Solana_Varros.webp]]

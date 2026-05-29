@@ -8,7 +8,9 @@ tags:
   - avosa
   - city-leadership
   - ally
+  - gm-only
 image: Corella-Marante.webp
+draft: true
 ---
 
 ![[Corella-Marante.webp]]
