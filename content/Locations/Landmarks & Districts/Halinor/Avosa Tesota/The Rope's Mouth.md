@@ -11,22 +11,26 @@ tags:
 
 ## Description
 
-The Rope’s Mouth squats at the edge of the bay like a ship that refused to sail.
+The Rope's Mouth squats at the edge of the bay like a ship that refused to sail.
 
 Once a working drydock, it has been converted into a sprawling tavern-house sunk below street level, its original timber ribs still visible where the walls curve inward. You enter by descending a broad ramp of worn planks, the air cooling as you drop into the hollow belly of the place. Salt and smoke cling to everything. Lanterns hang from old rigging lines overhead, swaying gently with every gust that threads through the open slats.
 
-The tavern’s name comes from what used to hang above its first door: a thick coil of rope knotted into a noose, not as a threat of execution so much as a promise—cause trouble, and the house will deal with you. The noose is gone now, replaced by a carved wooden sign depicting an open-mouthed knot of rope with teeth like a sea beast. Even so, the tradition remains: a loop of braided cord hangs behind the bar, and the staff will tap it twice before tossing out anyone too drunk, too violent, or too eager to prove themselves.
+The tavern takes its name from an old Avosan saying: _"Every pirate finds the rope's mouth in the end."_ The first owner heard it as a threat and decided to make it a welcome. A thick hempen noose still hangs above the door as a reminder of what kind of place this is and what kind of people drink here.
 
-Inside, tables are built from repurposed deck planks and broken spars. The back wall is lined with barrel booths, each one fitted with privacy curtains made from old sails. A long dais runs along one side where musicians perform sea-ballads nightly—some heroic, some filthy, some political enough to make a Bannerhall clerk pretend not to hear.
+Inside, tables are built from repurposed deck planks and broken spars. The back wall is lined with barrel booths, each fitted with privacy curtains made from old sailcloth. A long dais runs along one side where musicians perform sea-ballads nightly — some heroic, some filthy, most unprintable. 
 
-The Rope’s Mouth is loud, warm, and impossible to keep secret. People come to be seen as much as to drink.
+The Rope's Mouth is not a place for the cautious. The patrons are rough and the staff are rougher. Fights end when the staff decide they end. The door at the top of the ramp is a one-way proposition if you push your luck far enough.
+
+And yet people come. Deals are struck here that would never survive the light of the Pearlsteps. Fruitbound Oaths are sworn over spilled rum and broken knuckles. Rumors move faster through these barrel booths than through any Red Net channel — not because anyone trusts anyone, but because enough people talk when they drink, and someone here is always listening.
+
+If you want to know what Avosa is really thinking, you come to the Rope's Mouth. You just have to survive the visit.
 
 ## Significance
 
-The Rope’s Mouth is one of Avosa’s great pressure valves: a place where captains, dockhands, smugglers, guild reps, and sailors share space without pretending they’re equals—only that tonight’s quarrel can wait until morning.
+The Rope's Mouth is one of Avosa's oldest establishments and one of its least respectable — which, in a city founded by pirates, is saying something.
 
-It is also a rumor engine. Deals are made over shared fruit and rum. Fruitbound Oaths are sworn on spilled liquor and sticky hands. A single song performed here can travel the entire bay by sunrise, and more than one political career has been lifted or drowned by the chorus of a crowded night.
+It survives because it is useful. Captains who cannot be seen meeting in the Pearlsteps meet here instead. Smugglers and dock guild representatives share tables without pretending they have nothing in common. Information that would never survive a formal Red Net channel moves freely through the barrel booths, passed between people who trust each other only slightly more than they trust everyone else. The Bannerhall keeps a quiet list of who comes in groups and who leaves alone — but no clerk has ever been sent inside to collect it in person.
 
-As the Admiral’s election approaches, The Rope’s Mouth has become a battleground of mood. Solana’s supporters buy rounds for old-flag crews and chant for “freedom without chains,” while Marante’s allies speak of stability and dignity with their backs carefully to the wall. [[The Red Net]] is said to keep eyes in the rafters, and the Bannerhall keeps a list of who comes in groups, who leaves alone, and who never leaves at all.
+The roughness is not incidental, but the point. A place where anyone can be thrown out — or worse, embarrassed — by the staff creates a strange equality. Rank means nothing at the Rope's Mouth. What matters is whether you can hold your drink, mind your business, and know when to leave.
 
-If Avosa is a ship, The Rope’s Mouth is where you hear the hull creak—where the city’s stress leaks out in laughter before it turns into splinters.
+For all its violence and noise, the Rope's Mouth is one of the few places in Avosa where the city's true pulse can be felt — not the official mood of the Congress floor or the curated sentiment of the Pearlsteps, but the raw, unfiltered opinion of people who have nothing to gain from lying about it. If something is about to go wrong in Avosa, someone in a barrel booth already knows.

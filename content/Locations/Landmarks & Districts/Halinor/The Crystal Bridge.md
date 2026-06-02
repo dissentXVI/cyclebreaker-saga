@@ -15,7 +15,7 @@ The Crystal Bridge is a sweeping arc of pale, unmelting crystal stretching acros
 
 The bridge is wide enough for soldiers marching four abreast or a laden merchant cart with room to spare on either side. Its surface is slightly textured — a deliberate feature, some say, to prevent slipping in ice and snow. Its edges are carved with saints' names and prayers to [[Alophia]] in script so fine it requires kneeling to read. Beneath the bridge, far below, the chasm feeds into a thundering waterfall known as **the Flood Below**, whose roar can be felt through the crystal underfoot on days when the melt is heavy.
 
-The western end is anchored by the **Frostward Gate** — a heavily fortified Carinthian checkpoint manned by the [[Knights Templar]], where all passage into the kingdom is controlled. Papers, purpose, and identity are checked. No exceptions are made, and none are negotiated. The eastern end opens through the **Gate of Twelve Flames**, a bastion of gleaming stone and blue crystal that leads directly into the outer marches of [[Carinthia]].
+The western end is anchored by the **Frostward Gate** — a heavily fortified Carinthian checkpoint manned by the [[Knights Templar]], where all passage into the kingdom is controlled. Papers, purpose, and identity are checked. No exceptions are made, and none are negotiated. The eastern end opens through the **Gate of Twelve Flames**, a bastion of gleaming stone and blue crystal that leads directly into the outer marches of [[Heldenheim|Carinthia]].
 
 ## Significance
 
