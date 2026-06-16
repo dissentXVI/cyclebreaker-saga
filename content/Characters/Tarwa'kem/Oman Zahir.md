@@ -4,9 +4,9 @@ aliases:
 tags:
   - tarwa-kem
   - npc
-image: Oman_Zahir.webp
+image: Oman_Zahir_v2.webp
 ---
-![[Oman_Zahir.webp]]
+![[Oman_Zahir_v2.webp]]
 > "This family does not rise by luck. We rise by refusing to fall."
 
 **Title**: Head of House Zahir

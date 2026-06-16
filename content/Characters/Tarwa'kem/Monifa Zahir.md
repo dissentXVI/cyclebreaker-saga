@@ -4,9 +4,9 @@ aliases:
 tags:
   - tarwa-kem
   - npc
-image: Monifa_Zahir.webp
+image: Monifa_Zahir_v2.webp
 ---
-![[Monifa_Zahir.webp]]
+![[Monifa_Zahir_v2.webp]]
 > "Laena promised she'd come back. And Laena never breaks a promise."
 
 **Title**: Youngest Daughter of House Zahir

@@ -4,10 +4,10 @@ aliases:
 tags:
   - wanderer
   - npc
-image: Qildor.webp
+image: Qildor_v2.webp
 ---
 
-![[Qildor.webp]]
+![[Qildor_v2.webp]]
 
 > "Ah, but for you, my friend? Practically theft! My loss, really!"
 
@@ -47,7 +47,7 @@ What is known is that he's been kicked out of at least two city-states, once dis
 
 ## Current Status
 
-Seen recently in [[Tarwa'kem]], claiming to have an incredible deal for Frog. It has yet to prove itself to be.
+Seen recently in [[Aqualonde]], claiming to have an incredible deal for Frog. It has yet to prove itself to be.
 
 Who knows where the coin will guide him next?
 

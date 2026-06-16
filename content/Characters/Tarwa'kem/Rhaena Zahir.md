@@ -5,9 +5,9 @@ aliases:
 tags:
   - tarwa-kem
   - npc
-image: Rhaena_Zahir.webp
+image: Rhaena_Zahir_v2.webp
 ---
-![[Rhaena_Zahir.webp]]
+![[Rhaena_Zahir_v2.webp]]
 > "Elegance is not an accident. It is discipline wearing a smile."
 
 **Title**: Lady of House Zahir

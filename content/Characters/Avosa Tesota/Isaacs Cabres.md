@@ -7,11 +7,11 @@ tags:
   - npc
   - city-leadership
   - gm-only
-image: Isaacs_Cabres.webp
+image: Isaacs_Cabres_v3.webp
 draft: true
 ---
 
-![[Isaacs_Cabres.webp]]
+![[Isaacs_Cabres_v3.webp]]
 
 > “The Admiral carves the waves, rules the seas, leashes the crew. I just make sure the boat don’t sink..”
 

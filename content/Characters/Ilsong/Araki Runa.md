@@ -1,16 +1,16 @@
 ---
 aliases:
-- The Black Whisper
-- Runa
+  - The Black Whisper
+  - Runa
 draft: true
-image: Araki-Runa_v2.webp
+image: Araki-Runa_v3webp
 tags:
-- ilsong
-- npc
-- gm-only
+  - ilsong
+  - npc
+  - gm-only
 ---
 
-![[Araki-Runa_v2.webp]]
+![[Araki-Runa_v3.webp]]
 
 > "Empires fall. Tyrants die."
 
